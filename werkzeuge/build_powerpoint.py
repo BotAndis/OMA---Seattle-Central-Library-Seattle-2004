@@ -1,6 +1,6 @@
 """Editable PowerPoint from the verified slide data; photos use native PPTX crops."""
 from pathlib import Path
-import json
+import json,re
 from pptx import Presentation
 from pptx.util import Inches,Pt
 from pptx.dml.color import RGBColor
@@ -36,7 +36,8 @@ def picture(sl,key,x,y,w,h,cover=False):
   pic=sl.shapes.add_picture(str(path),Inches(x+(w-pw)/2),Inches(y+(h-ph)/2),width=Inches(pw),height=Inches(ph))
  pic._element.nvPicPr.cNvPr.set('descr',a['title']+'; '+a['author']+'; '+a['license'])
  txt(sl,key+' / '+a['title'],x,y+h+.08,w,.2,8.2,MUTED)
- txt(sl,a['author']+' · '+a['license'],x,y+h+.25,w,.26,7.2,MUTED,url=a['url'])
+ year=re.search(r'(?<!\d)(?:19|20)\d{2}(?!\d)',a['date']).group(0) if key.startswith('F') else 'hist. Plan' if key.startswith('P') else '2026'
+ txt(sl,a['author']+' · '+year+' · '+a['license'],x,y+h+.25,w,.26,7.2,MUTED,url=a['url'])
 
 for s in slides:
  sl=prs.slides.add_slide(prs.slide_layouts[6]);sl.background.fill.solid();sl.background.fill.fore_color.rgb=RGBColor.from_string(INK)

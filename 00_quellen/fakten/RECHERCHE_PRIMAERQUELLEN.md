@@ -13,7 +13,7 @@ Abrufdatum: **11. Oktober 2026**. HTML, extrahierte Texte und eingebettete OMA-P
 | Eröffnung | **23. Mai 2004** | SPL History / Tours |
 | Entwurfsverfasser | OMA / LMN, Joint Venture; Rem Koolhaas und Joshua Prince-Ramus (heute Joshua Ramus) | OMA / REX / SPL Tours |
 | Projektverantwortung | REX nennt Joshua Ramus als „Partner-in-Charge“ | REX |
-| Ebenen | 11 oberirdische Bibliothekslevels; unterirdisches Parken | SPL / REX |
+| Ebenen | 11 Bibliothekslevels; unterirdisches Parken | SPL / REX |
 | Bibliotheksfläche | **33.700 m²** (gerundet; OMA und REX) | OMA eingebettete `program`-Daten / REX |
 | Parkfläche | **4.600 m²** | OMA / REX |
 | Gesamtfläche | **38.300 m²** | OMA `totalSquareMeters`; REX |
@@ -56,7 +56,7 @@ Die überlappenden und gegeneinander verschobenen Plattformen bestimmen die face
 
 Die Sachbuchsammlung liegt auf einer kontinuierlichen, sanft ansteigenden Folge von Böden zwischen **Level 6 und Level 9**. Man kann den Weg ohne Treppen, Rolltreppen oder Aufzüge durchlaufen. SPL Architecture bezeichnet die Strecke als rollstuhlgerecht. Die Sammlung bleibt entlang der **Dewey Decimal Classification 000–999** kontinuierlich; wachsende Themenbereiche können Platz beanspruchen, ohne durch einzelne Geschossgrenzen unterbrochen zu werden.
 
-**6.233 Regale** enthielten zur Eröffnung laut OMA / REX **780.000 Bücher** und bieten eine konzeptionelle Wachstumskapazität bis **1.450.000 Bücher**, ohne zusätzliche Regale. Das sind Angaben für die Spiralorganisation / Entwurfsreserve, nicht die heutige belegte Gesamtzahl. SPL meldet heute für die Bibliothek über 1 Million Bücher.
+**6.233 Regale** enthielten zur Eröffnung laut OMA / REX **780.000 Bücher** und bieten eine konzeptionelle Wachstumskapazität bis **1.450.000 Bücher**, ohne zusätzliche Regale. Das sind Angaben für die Spiralorganisation / Entwurfsreserve, nicht die heutige belegte Gesamtzahl. SPL nennt zum Seitenstand der Recherche über 1 Million Bücher; das ist eine Betreiberangabe, keine unabhängige aktuelle Zählung.
 
 Die SPL Audio Tour erklärt, dass vor dem endgültigen Entwurf **drei 1:1-Modelle** der Spirale gebaut wurden, an denen Senioren, Kleinkinder und Menschen mit Behinderungen die sanfte Steigung ausprobieren konnten. Die weißen Dewey-Ziffern auf schwarzen Gummistreifen machen die Ordnung auf dem Weg sichtbar.
 
@@ -138,8 +138,8 @@ OMA führt für Seattle **Rem Koolhaas und Joshua Prince-Ramus** als Partner. RE
 | Projekt | Datum / Status | Analytischer Bezug zu Seattle |
 |---|---|---|
 | **Jussieu – Two Libraries, Paris** | 1992, Competition; nicht als gebaut ausgeben | Geknickte / verbundene Geschossflächen erzeugen eine durchgehende „interior boulevard“ statt getrennten Etagen. Vorläufer der räumlichen Kontinuität, die Seattle speziell auf die Sammlung überträgt. |
-| **Bibliothèque Alexis de Tocqueville, Caen** | OMA Projektzeit 2010–2016, Öffentlichkeit / Eröffnung Januar 2017 | 12.000 m², Verbindung von Stadt, Park, Ufer und Innenraum; Bibliothek als bürgerlicher Ort. Unterschied zu Seattle: stärker horizontal und kreuzförmig organisierter Wissensaustausch. |
-| **Qatar National Library, Doha** | OMA Projektjahr 2017; offizielle feierliche Eröffnung 17. April 2018 | 42.000 m², über 1 Mio. Bücher; National-, öffentliche und Universitätsbibliothek plus Heritage Collection. Verbindet Sammlung und gemeinsamen großen Raum. Datierung 2017/2018 ausdrücklich unterscheiden. |
+| **Bibliothèque Alexis de Tocqueville, Caen** | OMA Projektzeit 2010–2016, Öffentlichkeit / Eröffnung Januar 2017 | Rund 12.000 m² Bibliothek laut OMA-Beschreibung (eingebettetes Programm: 11.700 m² Bibliothek, 14.430 m² insgesamt), Verbindung von Stadt, Park, Ufer und Innenraum; Bibliothek als bürgerlicher Ort. Unterschied zu Seattle: stärker horizontal und kreuzförmig organisierter Wissensaustausch. |
+| **Qatar National Library, Doha** | OMA Projektjahr 2017; offizielle feierliche Eröffnung 17. April 2018 | OMA nennt im Beschreibungstext 42.000 m², im eingebetteten Flächendatensatz dagegen 31.000 m² ohne Erklärung der Abgrenzung; keine eindeutig vereinheitlichte Gesamtfläche. Über 1 Mio. Bücher laut OMA; National-, öffentliche und Universitätsbibliothek plus Heritage Collection. Verbindet Sammlung und gemeinsamen großen Raum. Datierung 2017/2018 ausdrücklich unterscheiden. |
 
 ## 10. Rezeption und kritische Leitfragen
 
@@ -178,3 +178,8 @@ Alle erfolgreichen Abrufe 11.10.2026. **Primärquelle** bedeutet hier Bauherr, b
 17. **OMA: Qatar National Library.** https://www.oma.com/projects/qatar-national-library — `oma_qatar.html/.txt`.
 
 `fetch_metadata.json` protokolliert die meisten URL-Abrufe einschließlich erfolgloser Versuche. Nicht zitierfähig: geratenen / 404-SPL-Facts / Sustainability-Adressen, Seele / Arup 404, REX Profile 403, Bing-Suche (unpassende Ergebnisse). Erfolgreich gespeicherte Rohseiten sind die Evidenz; Suchergebnis-Snippets gelten nicht als Beleg.
+
+
+## Zweite Gegenprüfung, 11.10.2026
+
+Der vollständige Fakten- und Einzelbildprüfbericht liegt in [01_recherche/gegenpruefung.md](../../01_recherche/gegenpruefung.md). Insbesondere Qatar: OMA datiert Fertigstellung und Öffnung 2017; die feierliche offizielle Eröffnung erfolgte am 17. April 2018. Unterschiede zwischen Beschreibungstext und eingebetteten Flächendaten von Vergleichsprojekten bleiben ausdrücklich benannt.

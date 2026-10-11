@@ -13,6 +13,12 @@
 
 **HTML ansehen:** Die HTML-Datei herunterladen und im Browser öffnen. GitHub zeigt im normalen Datei-Viewer den Quelltext. Die eingebetteten Bilder funktionieren ohne Internet; Quellenlinks und verlinkte Originaldateien benötigen Internet beziehungsweise das übrige Repository. Für alle relativen Downloads das Repository vollständig herunterladen.
 
+## Zweite Fakten- und Bildprüfung
+
+[Vollständiger Prüfbericht](01_recherche/gegenpruefung.md), 11. Oktober 2026: **153 Prüfpunkte**, **18 Fotos**, **zehn Originalzeichnungen** und **fünf eigene Diagramme**. Alle Materialien wurden einzeln visuell geprüft. Bei sämtlichen 28 Fremdbildern stimmt der erneute Download mit der gespeicherten Datei überein; Urheber, Datumsfelder und Lizenzen aller 18 Fotos wurden erneut mit Commons abgeglichen.
+
+Korrigiert wurden die Bildzuordnungen F13 (Living Room statt Book Spiral) und F16 (Tragstruktur ohne sichtbare Arbeitsplätze), die Qatar-Eröffnungsangabe sowie die missverständlichen Diagramme zur Stadtschwelle und zum Glasaufbau. Direkte Biografiebelege und Fotojahre in den Folien wurden ergänzt. HTML, beide PDFs, PowerPoint und Bildnachweise enthalten die Korrekturen. Offene Fragen zu Kostenumfang, Flächenabgrenzung und aktuellem Betrieb sind im Prüfbericht ausgewiesen.
+
 ## Inhalt
 
 | Verzeichnis | Inhalt |
@@ -60,6 +66,7 @@ In einer zweiten Shell im selben Verzeichnis:
 python3 werkzeuge/render_validate.py
 python3 werkzeuge/build_powerpoint.py
 python3 werkzeuge/check_exports.py
+python3 werkzeuge/build_audit.py
 ```
 
 Der HTTP-Server dient nur den lokalen Prüfungen und wird nicht öffentlich bereitgestellt. Die PDF-Präsentation folgt dem HTML-Layout; die separat erzeugte PowerPoint enthält editierbare Elemente und kann sich im Detail unterscheiden.

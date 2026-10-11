@@ -8,6 +8,6 @@ url: https://commons.wikimedia.org/wiki/File:Seattle_library_framework_inside.jp
 download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Seattle_library_framework_inside.jpg/1920px-Seattle_library_framework_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 license: CC BY 2.0
 license_url: https://creativecommons.org/licenses/by/2.0
-category: Tragwerk / Innenraum
-description: Seattle Central LibraryFramework
+category: Fassadenraster / Innenraum
+description: Diagonales Fassadenraster von innen; die Aufnahme allein belegt nicht das Material jedes sichtbaren Profils.
 original_dimensions: [2048, 1536]

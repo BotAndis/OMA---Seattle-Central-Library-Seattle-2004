@@ -1,0 +1,162 @@
+[
+  {
+    "id": "oma_1",
+    "url": "https://www.oma.com/projects/seattle-central-library",
+    "final_url": "https://www.oma.com/projects/seattle-central-library",
+    "status": 200,
+    "sha256": "d03305f4222b6b97386e5580613851d378f70ed85e49a4bbdf8e765c2fd6bba5",
+    "bytes": 404156
+  },
+  {
+    "id": "spl_2",
+    "url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-architecture",
+    "final_url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-architecture",
+    "status": 200,
+    "sha256": "cc6f61b75536b9793e2046dff92cff3f3417353a5dfbdf7c09bd9537fc3f9063",
+    "bytes": 76926
+  },
+  {
+    "id": "spl_3",
+    "url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-history",
+    "final_url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-history",
+    "status": 200,
+    "sha256": "ff84375d462dd81d8c2761a17acec5269bfe29b26d19c4a4e0032543d0772b0c",
+    "bytes": 86211
+  },
+  {
+    "id": "spl_4",
+    "url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights",
+    "final_url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights",
+    "status": 200,
+    "sha256": "232cf8beb88408d23c095fadd6f6f709ae8a794fabdcb7840dc4477ec2e60593",
+    "bytes": 82389
+  },
+  {
+    "id": "lmn_5",
+    "url": "https://lmnarchitects.com/lmn-research/seattle-central-library-curtain-wall-design",
+    "final_url": "https://lmnarchitects.com/lmn-research/seattle-central-library-curtain-wall-design",
+    "status": 200,
+    "sha256": "6384701f9cefabd367947b28fa742d2c38b80635222386f1a1c0b2b1d50d346b",
+    "bytes": 74520
+  },
+  {
+    "id": "mka_6",
+    "url": "https://www.mka.com/projects/seattle-central-library/",
+    "final_url": "https://www.mka.com/projects/seattle-central-library/",
+    "status": 200,
+    "sha256": "7204cb51f6804f87bad531cf82c635047866f3ccae0268edad1dcf02918f6892",
+    "bytes": 346000
+  },
+  {
+    "id": "front_7",
+    "url": "https://front.global/project/seattle-central-library/",
+    "final_url": "https://front.global/project/seattle-central-library/",
+    "status": 200,
+    "sha256": "c5891760a3555f41fa741eee6f169c478dc435709a65d0a9659c1f6a1898b1a0",
+    "bytes": 31917
+  },
+  {
+    "id": "pritzker_8",
+    "url": "https://www.pritzkerprize.com/laureates/2000",
+    "final_url": "https://www.pritzkerprize.com/laureates/2000",
+    "status": 200,
+    "sha256": "340e1ee2b8784dae564de2bf3b942462b04b776a22c9b4260eec756c0b0e7d55",
+    "bytes": 59794
+  },
+  {
+    "id": "oma_9",
+    "url": "https://www.oma.com/office",
+    "final_url": "https://www.oma.com/office",
+    "status": 200,
+    "sha256": "cce62714f81e1edeab5b05290b710fc2fc43fd0a91f4c776c01d3805256f3e17",
+    "bytes": 129880
+  },
+  {
+    "id": "oma_10",
+    "url": "https://www.oma.com/projects/jussieu-two-libraries",
+    "final_url": "https://www.oma.com/projects/jussieu-two-libraries",
+    "status": 200,
+    "sha256": "02de9bc738d5ba82852a8a8e753cbe930f557a78e6beb83e041944981c7dec84",
+    "bytes": 199961
+  },
+  {
+    "id": "oma_11",
+    "url": "https://www.oma.com/projects/qatar-national-library",
+    "final_url": "https://www.oma.com/projects/qatar-national-library",
+    "status": 200,
+    "sha256": "33fa8e3a73429aa9fb708dfcd1f40ca5c004f00fd165bbef853b6f849d48d6a1",
+    "bytes": 293677
+  },
+  {
+    "id": "oma_12",
+    "url": "https://www.oma.com/projects/bibliotheque-alexis-de-tocqueville",
+    "final_url": "https://www.oma.com/projects/bibliotheque-alexis-de-tocqueville",
+    "status": 200,
+    "sha256": "032c0ddaff8b60433d8a162a50932debd9374ffd681a3c0cdc36f9249e701b06",
+    "bytes": 368963
+  },
+  {
+    "id": "spl_13",
+    "url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-art",
+    "final_url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-art",
+    "status": 200,
+    "sha256": "492854745b0f95f9ad81a58b947c33089db77ede160d757918ea8d7c3ffad45c",
+    "bytes": 94712
+  },
+  {
+    "id": "rex_15",
+    "url": "https://rex-ny.com/project/seattle-library/",
+    "final_url": "https://rex-ny.com/project/seattle-library/",
+    "status": 200,
+    "sha256": "c9b899648e1f1cc16f034cf962e0e53bb7bd24c70830a4f3e7c29cf6c307c910",
+    "bytes": 82925
+  },
+  {
+    "id": "spl_17",
+    "url": "https://www.spl.org/Seattle-Public-Library/documents/transcriptions/tours/Central-Library-Audio-Tour.pdf",
+    "final_url": "https://www.spl.org/Seattle-Public-Library/documents/transcriptions/tours/Central-Library-Audio-Tour.pdf",
+    "status": 200,
+    "sha256": "55b9748bb809dd58fd73d16a8527e133f300088962d8310e7a588271590bfbf4",
+    "bytes": 245914
+  },
+  {
+    "id": "spl_16",
+    "url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-tours",
+    "final_url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-tours",
+    "status": 200,
+    "sha256": "e73b76762baa0772b512ad416f2b62cd6fb20ebdbb927b07c80e5dcc4ec259af",
+    "bytes": 104918
+  },
+  {
+    "id": "oma_rem",
+    "url": "https://www.oma.com/partners/rem-koolhaas",
+    "final_url": "https://www.oma.com/partners/rem-koolhaas",
+    "status": 200,
+    "sha256": "93f60d1ab6922f70f8fb7245a0cf2569d37f8d91cf9dd4edec1d413352e4418a",
+    "bytes": 174730
+  },
+  {
+    "id": "oma_caen_opening",
+    "url": "https://www.oma.com/news/new-library-of-caen-designed-by-oma-in-collaboration-with-barcode-architects-opened-to-the-public-",
+    "final_url": "https://www.oma.com/news/new-library-of-caen-designed-by-oma-in-collaboration-with-barcode-architects-opened-to-the-public-",
+    "status": 200,
+    "sha256": "025838e0edfdd8a3d055e621087264e755e69ab708e48f2b02d4d0aa610b8114",
+    "bytes": 537138
+  },
+  {
+    "id": "commons_metadata",
+    "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3ASeattle+%28WA%2C+USA%29%2C+Seattle+Central+Library+--+2022+--+200930.jpg%7CFile%3ASeattle+Central+Library+%285763011359%29.jpg%7CFile%3ASeattle+Public+Library+main+branch+night.jpg%7CFile%3AGrid+System+%285613157595%29.jpg%7CFile%3ASeattle+Central+Library+under+construction%2C+2003+%284440504145%29.jpg%7CFile%3ASeattle-Public-Library-3rd-floor-2393.jpg%7CFile%3ASeattle+Public+Library+Main+Branch+Reading+Room.JPG%7CFile%3AReception+in+Red+%285756533584%29.jpg%7CFile%3ARed+rooms+%283233624954%29.jpg%7CFile%3AMixing+Chamber+and+offices+-+Seattle+Central+Library+%28178839789%29.jpg%7CFile%3ABooks+Spiral+-+Technology+-+Flickr+-+brewbooks.jpg%7CFile%3ANear+the+top+of+the+Book+Spiral+-+Flickr+-+brewbooks.jpg%7CFile%3ARiver+of+Books+-+Flickr+-+brewbooks.jpg%7CFile%3ASeattle+library+framework+inside.jpg%7CFile%3AChildrens+Library+Seattle+Central+Library+%28259437129%29.jpg%7CFile%3ASupport+Structure+-+Seattle+Public+Library.jpg%7CFile%3ASeattle+Central+Library+interior.jpg%7CFile%3ASeattle+Central+Library+from+Fourth+%26+Madison+Building+-+Nov+2024.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize%7Csha1",
+    "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3ASeattle+%28WA%2C+USA%29%2C+Seattle+Central+Library+--+2022+--+200930.jpg%7CFile%3ASeattle+Central+Library+%285763011359%29.jpg%7CFile%3ASeattle+Public+Library+main+branch+night.jpg%7CFile%3AGrid+System+%285613157595%29.jpg%7CFile%3ASeattle+Central+Library+under+construction%2C+2003+%284440504145%29.jpg%7CFile%3ASeattle-Public-Library-3rd-floor-2393.jpg%7CFile%3ASeattle+Public+Library+Main+Branch+Reading+Room.JPG%7CFile%3AReception+in+Red+%285756533584%29.jpg%7CFile%3ARed+rooms+%283233624954%29.jpg%7CFile%3AMixing+Chamber+and+offices+-+Seattle+Central+Library+%28178839789%29.jpg%7CFile%3ABooks+Spiral+-+Technology+-+Flickr+-+brewbooks.jpg%7CFile%3ANear+the+top+of+the+Book+Spiral+-+Flickr+-+brewbooks.jpg%7CFile%3ARiver+of+Books+-+Flickr+-+brewbooks.jpg%7CFile%3ASeattle+library+framework+inside.jpg%7CFile%3AChildrens+Library+Seattle+Central+Library+%28259437129%29.jpg%7CFile%3ASupport+Structure+-+Seattle+Public+Library.jpg%7CFile%3ASeattle+Central+Library+interior.jpg%7CFile%3ASeattle+Central+Library+from+Fourth+%26+Madison+Building+-+Nov+2024.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize%7Csha1",
+    "status": 200,
+    "sha256": "2c087df57d382d3dbd99775e67a7933ef151f95c79e4d41819610227334f9d6a",
+    "bytes": 57331
+  },
+  {
+    "id": "oma_18",
+    "url": "https://www.oma.com/partners/rem-koolhaas",
+    "final_url": "https://www.oma.com/partners/rem-koolhaas",
+    "status": 200,
+    "sha256": "93f60d1ab6922f70f8fb7245a0cf2569d37f8d91cf9dd4edec1d413352e4418a",
+    "bytes": 174730
+  }
+]

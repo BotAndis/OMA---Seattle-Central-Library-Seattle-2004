@@ -8,6 +8,6 @@ url: https://commons.wikimedia.org/wiki/File:Seattle_Central_Library_interior.jp
 download_url: https://upload.wikimedia.org/wikipedia/commons/b/b7/Seattle_Central_Library_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 license: CC BY-SA 1.0
 license_url: https://creativecommons.org/licenses/by-sa/1.0
-category: Historische Innenaufnahme 2004
-description: New Seattle Public Library, Central Branch, Seattle, Washington, USA. Photo of the interior taken July 19, 2004 by Jim Harper.
+category: Living Room / historische Innenaufnahme 2004
+description: Living Room mit Pflanzenteppich und Glasfassade; Aufnahme von Jim Harper am 19. Juli 2004, nach der Eröffnung.
 original_dimensions: [1200, 1600]

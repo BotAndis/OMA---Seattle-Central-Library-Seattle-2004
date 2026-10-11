@@ -20,10 +20,12 @@ def build():
  b+=rect(705,90,20,20,'#171b19')+text(735,108,'fest',18)+rect(705,122,20,20,'#d9ef65')+text(735,141,'offen',18)
  assets.append(svg('a01_programm','Fünf feste Cluster · vier Zwischenzonen',b,'[OMA 1; SPL 2; SPL 16]'))
  b=text(65,103,'FOURTH AVENUE',22,weight='bold')+text(588,103,'FIFTH AVENUE',22,weight='bold')
- b+=line(70,490,290,490)+line(590,300,830,300)+line(290,490,590,300,'#d9ef65',18)
+ b+=line(70,490,290,490)+line(590,300,830,300)
+ b+='<path d="M290 490 L440 490 L440 300 L590 300" fill="none" stroke="#a5bb39" stroke-width="8" stroke-dasharray="12 9"/>'
  b+=rect(145,415,265,65,'#171b19')+text(165,455,'Level 1 · Kinderbereich',20,'#fff')+rect(460,225,340,65,'#171b19')+text(480,265,'Level 3 · Living Room',20,'#fff')
  b+=text(88,538,'unterer Zugang',20)+text(600,344,'oberer Zugang',20)+text(275,162,'Stadt → Aufenthalt → Information',24)
- b+=text(325,475,'Wege durch das Haus',18)+text(60,575,'Höhenbeziehung abstrahiert; keine Straßenneigung oder Distanz vermessen.',17)
+ b+=text(470,405,'Rolltreppen / Aufzüge',20)+text(470,435,'Verbindungsprinzip, keine Rampe',17)
+ b+=text(60,575,'Schematische Beziehung; Lage der Wege und Straßenhöhen nicht vermessen.',17)
  assets.append(svg('a02_schwelle','Zwei Stadtniveaus · eine öffentliche Bibliothek',b,'[LMN 5; SPL 2; SPL 16]'))
  b=''
  for i in range(4):
@@ -40,12 +42,12 @@ def build():
  b+=line(245,525,375,200,'#171b19',9)+line(665,525,555,200,'#171b19',9)
  b+='<path d="M140 490 L175 200 L650 110 L830 350 L800 490 Z" fill="none" stroke="#818976" stroke-width="3"/>'
  for i in range(4):b+=line(175+i*115,210,360+i*115,460,'#97a382',2)+line(215+i*115,450,395+i*115,180,'#97a382',2)
- b+=text(55,100,'Plattformfachwerke + geneigte Stützen',23)+text(55,140,'Schwerkraft ↓',20)+text(560,570,'Stahlgitter: Wind / Erdbeben',21)
+ b+=text(55,100,'Plattformfachwerke + geneigte Stützen',23)+text(55,140,'Schwerkraft ↓',20)+text(560,553,'Stahlgitter: Wind / Erdbeben',21)+text(55,578,'Prinzipausschnitt; kein realer Gebäudeschnitt und keine vollständige Statik.',17)
  assets.append(svg('a04_tragwerk','Lastabtragung und Aussteifung',b,'[MKA 6; LMN 5] · qualitatives Schema'))
- b=rect(95,130,24,380,'#b7d6de')+rect(170,130,24,380,'#b7d6de')+rect(250,130,24,380,'#b7d6de')
- for y in range(135,500,22):b+=line(132,y,151,y+10,'#171b19',2)
- b+=line(107,180,440,180,'#666',1)+text(460,187,'Glas / Isolierverglasung',22)+line(140,280,440,280,'#666',1)+text(460,287,'Streckmetall: Sonnenschutz',22)+line(230,390,440,390,'#666',1)+text(460,397,'Beschichtung / Gasfüllung',22)
- b+=text(80,550,'Außen',20)+text(255,550,'Innen',20)+text(365,468,'Aufbau je Fassadentyp unterschiedlich.',18)+text(365,497,'Keine Detail- oder Schichtenbemessung.',18)
+ b=rect(55,100,790,100,'#dce9ec')+text(80,140,'Glas / Isolierverglasung',25,weight='bold')+text(80,174,'Transparenz, Tageslicht und Wetterabschluss',20)
+ b+=rect(55,225,790,100,'#d9ef65')+text(80,265,'Aluminium-Streckmetall im Glas',25,weight='bold')+text(80,299,'Sonnenexponierte Bereiche: direkte Einstrahlung reduzieren',20)
+ b+=rect(55,350,790,100,'#e6e8de')+text(80,390,'Low-E-Beschichtung / Kryptonfüllung',25,weight='bold')+text(80,424,'Laut LMN bei etwa der Hälfte der Isolierglaselemente',20)
+ b+=text(55,511,'Funktionsübersicht: kein Schichtenquerschnitt.',22)+text(55,548,'Scheibenzahl und Aufbau unterscheiden sich je Fassadentyp.',20)
  assets.append(svg('a05_fassade','Transparenz mit integrierter Sonnenkontrolle',b,'[LMN 5; Front 7] · Funktionsschema'))
  import json
  (OUT/'manifest.json').write_text(json.dumps(assets,ensure_ascii=False,indent=2))

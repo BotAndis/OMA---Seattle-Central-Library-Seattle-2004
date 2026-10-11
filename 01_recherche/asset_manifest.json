@@ -359,7 +359,7 @@
   },
   {
     "id": "F13",
-    "title": "Vertikale Raumbeziehungen",
+    "title": "Blick von Level 10 in den Living Room",
     "path": "04_fotos/13_atrium-blick.jpg",
     "author": "brewbooks from near Seattle, USA",
     "date": "2009-12-06 01:36",
@@ -368,8 +368,8 @@
     "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/River_of_Books_-_Flickr_-_brewbooks.jpg/1920px-River_of_Books_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "license": "CC BY-SA 2.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "category": "Books Spiral / vertikale Raumbeziehung",
-    "description": "Blick durch das Atrium auf gestaffelte Bibliotheksebenen und Bücherregale; Aufnahme vom Balkon auf Ebene 10.",
+    "category": "Living Room / Blick von Level 10",
+    "description": "Blick vom Balkon auf Level 10 hinunter in den Living Room auf Level 3; sichtbar sind Pflanzenteppich, niedrige Bücherregale und Rolltreppen.",
     "original_dimensions": [
       2592,
       3888
@@ -378,7 +378,7 @@
   },
   {
     "id": "F14",
-    "title": "Diagonales Stahlgitter im Innenraum",
+    "title": "Diagonales Fassadenraster von innen",
     "path": "04_fotos/14_stahltragwerk-innen.jpg",
     "author": "Jan Tik",
     "date": "2005-04-26 13:20:25",
@@ -387,8 +387,8 @@
     "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Seattle_library_framework_inside.jpg/1920px-Seattle_library_framework_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "license": "CC BY 2.0",
     "license_url": "https://creativecommons.org/licenses/by/2.0",
-    "category": "Tragwerk / Innenraum",
-    "description": "Seattle Central LibraryFramework",
+    "category": "Fassadenraster / Innenraum",
+    "description": "Diagonales Fassadenraster von innen; die Aufnahme allein belegt nicht das Material jedes sichtbaren Profils.",
     "original_dimensions": [
       2048,
       1536
@@ -416,7 +416,7 @@
   },
   {
     "id": "F16",
-    "title": "Stütze und Arbeitsplätze im Reading Room",
+    "title": "Träger und Stützen im Innenraum",
     "path": "04_fotos/16_tragwerk-detail.jpg",
     "author": "Jan Tik",
     "date": "2005-04-26 13:56:25",
@@ -425,8 +425,8 @@
     "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Support_Structure_-_Seattle_Public_Library.jpg/1920px-Support_Structure_-_Seattle_Public_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "license": "CC BY 2.0",
     "license_url": "https://creativecommons.org/licenses/by/2.0",
-    "category": "Reading Room / Stützen und Arbeitsplätze",
-    "description": "Arbeitsplätze im Reading Room mit Stütze, Deckenuntersicht und diagonaler Fassadenstruktur.",
+    "category": "Tragwerk / Innenraum",
+    "description": "Blick zwischen Trägern und Stützen der Tragstruktur mit Deckenuntersicht; keine erkennbaren Arbeitsplätze. Die genaue Aufnahmeebene wird nicht behauptet.",
     "original_dimensions": [
       2048,
       1536
@@ -435,7 +435,7 @@
   },
   {
     "id": "F17",
-    "title": "Innenaufnahme im Eröffnungsjahr 2004",
+    "title": "Living Room im Eröffnungsjahr 2004",
     "path": "04_fotos/17_innenraum-2004.jpg",
     "author": "Jim Harper",
     "date": "2004-07-19",
@@ -444,8 +444,8 @@
     "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Seattle_Central_Library_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "license": "CC BY-SA 1.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/1.0",
-    "category": "Historische Innenaufnahme 2004",
-    "description": "New Seattle Public Library, Central Branch, Seattle, Washington, USA. Photo of the interior taken July 19, 2004 by Jim Harper.",
+    "category": "Living Room / historische Innenaufnahme 2004",
+    "description": "Living Room mit Pflanzenteppich und Glasfassade; Aufnahme von Jim Harper am 19. Juli 2004, nach der Eröffnung.",
     "original_dimensions": [
       1200,
       1600

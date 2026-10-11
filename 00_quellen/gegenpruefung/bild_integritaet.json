@@ -1,0 +1,254 @@
+[
+  {
+    "id": "F01",
+    "path": "04_fotos/01_aussen-stadtblock.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Seattle_%28WA%2C_USA%29%2C_Seattle_Central_Library_--_2022_--_200930.jpg/1920px-Seattle_%28WA%2C_USA%29%2C_Seattle_Central_Library_--_2022_--_200930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "match": true,
+    "local_sha256": "bb83296af6a6c9274d7e45ad0b98113b83e40d14d811c8bca6ecf9a08bad1c9e",
+    "remote_sha256": "bb83296af6a6c9274d7e45ad0b98113b83e40d14d811c8bca6ecf9a08bad1c9e",
+    "bytes": 1097404
+  },
+  {
+    "id": "F02",
+    "path": "04_fotos/02_aussen-fifth-avenue.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Seattle_Central_Library_%285763011359%29.jpg/1920px-Seattle_Central_Library_%285763011359%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "match": true,
+    "local_sha256": "8b880cbac211cdc2d437e27bc2f333e782697400f2e066bea9bf685b3d4f3043",
+    "remote_sha256": "8b880cbac211cdc2d437e27bc2f333e782697400f2e066bea9bf685b3d4f3043",
+    "bytes": 833813
+  },
+  {
+    "id": "F03",
+    "path": "04_fotos/03_nachtansicht.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Seattle_Public_Library_main_branch_night.jpg/1920px-Seattle_Public_Library_main_branch_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "match": true,
+    "local_sha256": "65651cdfc9d46a8bd221cb12ea8925af2c6016bb3ca798bbffd4c5bc1affd92d",
+    "remote_sha256": "65651cdfc9d46a8bd221cb12ea8925af2c6016bb3ca798bbffd4c5bc1affd92d",
+    "bytes": 663847
+  },
+  {
+    "id": "F04",
+    "path": "04_fotos/04_fassade-detail.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Grid_System_%285613157595%29.jpg/1920px-Grid_System_%285613157595%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "match": true,
+    "local_sha256": "b24c0b14bf0881a6e113bb2c64010b7dbbfaaa4db33075fb9d615542a6bdba56",
+    "remote_sha256": "b24c0b14bf0881a6e113bb2c64010b7dbbfaaa4db33075fb9d615542a6bdba56",
+    "bytes": 845870
+  },
+  {
+    "id": "F05",
+    "path": "04_fotos/05_bauphase-2003.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Seattle_Central_Library_under_construction%2C_2003_%284440504145%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "match": true,
+    "local_sha256": "6cf8a3b3c7953db8156a1da77aedb7dee1842f2f44fa42997d08f008ac587246",
+    "remote_sha256": "6cf8a3b3c7953db8156a1da77aedb7dee1842f2f44fa42997d08f008ac587246",
+    "bytes": 215575
+  },
+  {
+    "id": "F06",
+    "path": "04_fotos/06_living-room.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Seattle-Public-Library-3rd-floor-2393.jpg/1920px-Seattle-Public-Library-3rd-floor-2393.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "match": true,
+    "local_sha256": "8b1bc8bdcc8144149e2b8117c247ccec12d64f9439068cb2f342d5c54ae49175",
+    "remote_sha256": "8b1bc8bdcc8144149e2b8117c247ccec12d64f9439068cb2f342d5c54ae49175",
+    "bytes": 575371
+  },
+  {
+    "id": "F07",
+    "path": "04_fotos/07_reading-room.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Seattle_Public_Library_Main_Branch_Reading_Room.JPG/1920px-Seattle_Public_Library_Main_Branch_Reading_Room.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "match": true,
+    "local_sha256": "0f861d2697074e7c72651aec50f3f22fc1eabe1645efc6f5225da6b274a81eeb",
+    "remote_sha256": "0f861d2697074e7c72651aec50f3f22fc1eabe1645efc6f5225da6b274a81eeb",
+    "bytes": 859877
+  },
+  {
+    "id": "F08",
+    "path": "04_fotos/08_red-floor.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Reception_in_Red_%285756533584%29.jpg/1920px-Reception_in_Red_%285756533584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "match": true,
+    "local_sha256": "61523981932631744744711e8ca0249c4a6a588c74d51b33ced3969eae2cc5d0",
+    "remote_sha256": "61523981932631744744711e8ca0249c4a6a588c74d51b33ced3969eae2cc5d0",
+    "bytes": 374433
+  },
+  {
+    "id": "F09",
+    "path": "04_fotos/09_red-floor-detail.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Red_rooms_%283233624954%29.jpg/1920px-Red_rooms_%283233624954%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "match": true,
+    "local_sha256": "684570458cf31a3219e943552fd87a7822963af2119a4860eeddcc1ad3054adc",
+    "remote_sha256": "684570458cf31a3219e943552fd87a7822963af2119a4860eeddcc1ad3054adc",
+    "bytes": 213468
+  },
+  {
+    "id": "F10",
+    "path": "04_fotos/10_mixing-chamber.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Mixing_Chamber_and_offices_-_Seattle_Central_Library_%28178839789%29.jpg/1920px-Mixing_Chamber_and_offices_-_Seattle_Central_Library_%28178839789%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "match": true,
+    "local_sha256": "dcd006f6f9b81090cd4305b63f8633a8998e5ac506799822ee1e61e1d6e5323e",
+    "remote_sha256": "dcd006f6f9b81090cd4305b63f8633a8998e5ac506799822ee1e61e1d6e5323e",
+    "bytes": 577292
+  },
+  {
+    "id": "F11",
+    "path": "04_fotos/11_books-spiral.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Books_Spiral_-_Technology_-_Flickr_-_brewbooks.jpg/1920px-Books_Spiral_-_Technology_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "match": true,
+    "local_sha256": "ef5a86313f12dfec77ef12bb3879e62fbe418af2e306b6f4f431a03df2e93e94",
+    "remote_sha256": "ef5a86313f12dfec77ef12bb3879e62fbe418af2e306b6f4f431a03df2e93e94",
+    "bytes": 785090
+  },
+  {
+    "id": "F12",
+    "path": "04_fotos/12_books-spiral-oben.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Near_the_top_of_the_Book_Spiral_-_Flickr_-_brewbooks.jpg/1920px-Near_the_top_of_the_Book_Spiral_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "match": true,
+    "local_sha256": "c2389cdaf5dd6a05d59513b62a18945ff78f4bf75ec42c3e29dc5339e331ddd7",
+    "remote_sha256": "c2389cdaf5dd6a05d59513b62a18945ff78f4bf75ec42c3e29dc5339e331ddd7",
+    "bytes": 514456
+  },
+  {
+    "id": "F13",
+    "path": "04_fotos/13_atrium-blick.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/River_of_Books_-_Flickr_-_brewbooks.jpg/1920px-River_of_Books_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "match": true,
+    "local_sha256": "c1a679b867a235fa2298dae1232fa95d9e1bec6d12e3182666c649030a92ba90",
+    "remote_sha256": "c1a679b867a235fa2298dae1232fa95d9e1bec6d12e3182666c649030a92ba90",
+    "bytes": 1113240
+  },
+  {
+    "id": "F14",
+    "path": "04_fotos/14_stahltragwerk-innen.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Seattle_library_framework_inside.jpg/1920px-Seattle_library_framework_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "match": true,
+    "local_sha256": "4023530c59bd0e7e38d853309458242d589886fa3bd8f3dc6d22d71cd12ef054",
+    "remote_sha256": "4023530c59bd0e7e38d853309458242d589886fa3bd8f3dc6d22d71cd12ef054",
+    "bytes": 673927
+  },
+  {
+    "id": "F15",
+    "path": "04_fotos/15_kinderbibliothek.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Childrens_Library_Seattle_Central_Library_%28259437129%29.jpg/1920px-Childrens_Library_Seattle_Central_Library_%28259437129%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "match": true,
+    "local_sha256": "a694075c88d84d7f2f69ab9e563ebc7962edf59f9da9c8fec4012a07619abdc9",
+    "remote_sha256": "a694075c88d84d7f2f69ab9e563ebc7962edf59f9da9c8fec4012a07619abdc9",
+    "bytes": 601158
+  },
+  {
+    "id": "F16",
+    "path": "04_fotos/16_tragwerk-detail.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Support_Structure_-_Seattle_Public_Library.jpg/1920px-Support_Structure_-_Seattle_Public_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "match": true,
+    "local_sha256": "fdf363e1338d06a005688aa803e4f32edf1fa8d34bc79d20a6779f00f19d61d0",
+    "remote_sha256": "fdf363e1338d06a005688aa803e4f32edf1fa8d34bc79d20a6779f00f19d61d0",
+    "bytes": 539209
+  },
+  {
+    "id": "F17",
+    "path": "04_fotos/17_innenraum-2004.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Seattle_Central_Library_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "match": true,
+    "local_sha256": "f1430d7a0eee217c2bc8b3554f21034cf66bd3ab92aff5b9b976606ecb64c9cd",
+    "remote_sha256": "f1430d7a0eee217c2bc8b3554f21034cf66bd3ab92aff5b9b976606ecb64c9cd",
+    "bytes": 1038449
+  },
+  {
+    "id": "F18",
+    "path": "04_fotos/18_stadtbezug.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Seattle_Central_Library_from_Fourth_%26_Madison_Building_-_Nov_2024.jpg/1920px-Seattle_Central_Library_from_Fourth_%26_Madison_Building_-_Nov_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "match": true,
+    "local_sha256": "70f8d1518249adc249205c9b0bc787089bce3f4c2cd92b606873a6dcda96858c",
+    "remote_sha256": "70f8d1518249adc249205c9b0bc787089bce3f4c2cd92b606873a6dcda96858c",
+    "bytes": 1018198
+  },
+  {
+    "id": "P01",
+    "path": "03_plaene/p01_lageplan_sichtachsen_oma.jpg",
+    "url": "https://cdn.sanity.io/images/5azy6oei/production/41388b7bf5d7dac3498ba4f7a9c2ece2378e7259-2748x3118.jpg",
+    "match": true,
+    "local_sha256": "471b068083a2e765998cbaca6f1d08cda00e0ef556136df244ce1eb1cf1c09aa",
+    "remote_sha256": "471b068083a2e765998cbaca6f1d08cda00e0ef556136df244ce1eb1cf1c09aa",
+    "bytes": 466199
+  },
+  {
+    "id": "P02",
+    "path": "03_plaene/p02_programmschnitt_oma.jpg",
+    "url": "https://cdn.sanity.io/images/5azy6oei/production/a6cab9732a999f8725a63d711fbbd9558d54d5d2-1142x1117.tif?fm=jpg",
+    "match": true,
+    "local_sha256": "ebfff70134a5ecba7160784e6527ef4679322a3faefee13c59707da4c96b748e",
+    "remote_sha256": "ebfff70134a5ecba7160784e6527ef4679322a3faefee13c59707da4c96b748e",
+    "bytes": 105225
+  },
+  {
+    "id": "P03",
+    "path": "03_plaene/p03_grundriss_level3_lmn.jpg",
+    "url": "https://lmnarchitects.com/wp-content/uploads/2021/12/pln-03.jpg",
+    "match": true,
+    "local_sha256": "a5e0c4efcf9c1a551dd28863729dcad7023b5d49ddbfc734c45a0bf8b80ae5e6",
+    "remote_sha256": "a5e0c4efcf9c1a551dd28863729dcad7023b5d49ddbfc734c45a0bf8b80ae5e6",
+    "bytes": 293736
+  },
+  {
+    "id": "P06",
+    "path": "03_plaene/p06_schnitt_ost_west_lmn.jpg",
+    "url": "https://lmnarchitects.com/wp-content/uploads/2021/12/East-West-section.jpg",
+    "match": true,
+    "local_sha256": "df94bd3e899f4185b7585a405da5ec0d3d53f603a67d257ac96f45de704e41ba",
+    "remote_sha256": "df94bd3e899f4185b7585a405da5ec0d3d53f603a67d257ac96f45de704e41ba",
+    "bytes": 140884
+  },
+  {
+    "id": "P07",
+    "path": "03_plaene/p07_schnitt_nord_sued_lmn.jpg",
+    "url": "https://lmnarchitects.com/wp-content/uploads/2021/12/North-South-section.jpg",
+    "match": true,
+    "local_sha256": "9884bdeadc6b152d69f7fd331094bd2f21e076bff979acb3bf1329abd178d7fc",
+    "remote_sha256": "9884bdeadc6b152d69f7fd331094bd2f21e076bff979acb3bf1329abd178d7fc",
+    "bytes": 130349
+  },
+  {
+    "id": "P08",
+    "path": "03_plaene/p08_ansicht_fassadenabwicklung_lmn.jpg",
+    "url": "https://lmnarchitects.com/wp-content/uploads/2021/12/Unfolded-elevation.jpg",
+    "match": true,
+    "local_sha256": "1cb6985e88b59869e0fd9c285d7e56632e3fc4379218368680a278796cd659de",
+    "remote_sha256": "1cb6985e88b59869e0fd9c285d7e56632e3fc4379218368680a278796cd659de",
+    "bytes": 263692
+  },
+  {
+    "id": "P09",
+    "path": "03_plaene/p09_detail_level4_5_lmn.jpg",
+    "url": "https://lmnarchitects.com/wp-content/uploads/2021/12/4th-Floor-section.jpg",
+    "match": true,
+    "local_sha256": "d60f44b02de8083d66fa8c97c99974a26ee5e80df9c3a74dd0f26cd30aeb09b8",
+    "remote_sha256": "d60f44b02de8083d66fa8c97c99974a26ee5e80df9c3a74dd0f26cd30aeb09b8",
+    "bytes": 193700
+  },
+  {
+    "id": "P10",
+    "path": "03_plaene/p10_detail_books_platform_lmn.jpg",
+    "url": "https://lmnarchitects.com/wp-content/uploads/2021/12/Books-section.jpg",
+    "match": true,
+    "local_sha256": "381540af8513f0c44f9c164a53021bb254550af8dbbf8c4bcb51b7bee0796879",
+    "remote_sha256": "381540af8513f0c44f9c164a53021bb254550af8dbbf8c4bcb51b7bee0796879",
+    "bytes": 367773
+  },
+  {
+    "id": "P04",
+    "path": "03_plaene/p04_grundriss_level5_oma.jpg",
+    "url": "https://images.adsttc.com/media/images/5721/9188/e58e/ce94/3800/0007/large_jpg/pln-05graphics.jpg?1461817710",
+    "match": true,
+    "local_sha256": "429806ca2a3ff165ce0323fac3313edfc9730dd72ab32ea321427b854f6709b2",
+    "remote_sha256": "429806ca2a3ff165ce0323fac3313edfc9730dd72ab32ea321427b854f6709b2",
+    "bytes": 353088
+  },
+  {
+    "id": "P05",
+    "path": "03_plaene/p05_grundriss_level8_oma.jpg",
+    "url": "https://images.adsttc.com/media/images/5721/91de/e58e/ce94/3800/0008/large_jpg/pln-08graphics.jpg?1461817792",
+    "match": true,
+    "local_sha256": "228b9fad87a038f064e86dc5685cb1cff790d48e976de65670aef69aef99b769",
+    "remote_sha256": "228b9fad87a038f064e86dc5685cb1cff790d48e976de65670aef69aef99b769",
+    "bytes": 472195
+  }
+]

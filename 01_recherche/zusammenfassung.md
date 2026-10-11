@@ -30,7 +30,7 @@ REX nennt US$123 Millionen. Der genaue Kostenumfang wird dort nicht erläutert; 
 
 ## 02 · Architekt & Zusammenarbeit — Ein gemeinsamer Entwurf von OMA und LMN
 
-Rem Koolhaas wurde 1944 in Rotterdam geboren und gründete OMA 1975 mit. Er erhielt 2000 den Pritzker-Preis. OMA arbeitet an der Schnittstelle von Architektur, Stadt und programmatischer Forschung. [Pritzker 8; OMA 9]
+Rem Koolhaas wurde 1944 in Rotterdam geboren und gründete OMA 1975 mit. Er erhielt 2000 den Pritzker-Preis. OMA arbeitet an der Schnittstelle von Architektur, Stadt und programmatischer Forschung. [Pritzker 8; OMA 9; OMA 18]
 
 Für Seattle nennt OMA Rem Koolhaas und Joshua Prince-Ramus als verantwortliche Partner. Die Seattle Public Library und LMN belegen das Joint Venture OMA/LMN. MKA war Tragwerks- und Tiefbauplaner; OMA nennt daneben Arup für Tragwerk und weitere Fachplanungen. Front beriet die Fassade und Seele entwickelte das Fassadensystem im Design-build-Verfahren mit. Der Bau ist daher nicht ausschließlich Koolhaas zuzuschreiben. [OMA 1; SPL 2; LMN 5; MKA 6; Front 7]
 
@@ -62,7 +62,7 @@ Die interaktive Ebenenübersicht ist ein Funktionsschema. Sie ersetzt weder eine
 
 ## 06 · Typologie & Erschließung — Ein kontinuierliches Regal statt vier getrennter Etagen
 
-Die Book Spiral führt den gesamten Sachbuchbestand in einer kontinuierlichen, rollstuhlgängigen Folge über Level 6–9. Die Dewey-Systematik bleibt entlang der räumlichen Sequenz zusammenhängend. Wachsende Fachgebiete können Raum verschieben, ohne die Ordnung an einer Geschossgrenze grundsätzlich zu unterbrechen. [SPL 2; OMA 1]
+SPL beschreibt die Book Spiral als kontinuierliche, rollstuhlgängige Anordnung des gesamten Sachbuchbestands über Level 6–9. Die Dewey-Systematik bleibt entlang der räumlichen Sequenz zusammenhängend. Wachsende Fachgebiete können Raum verschieben, ohne die Ordnung an einer Geschossgrenze grundsätzlich zu unterbrechen. [SPL 2; OMA 1; REX 15]
 
 OMA nennt für die Eröffnung 6.233 Regale mit 780.000 Büchern und eine mögliche Kapazität von 1.450.000 Büchern ohne zusätzliche Regale. Das sind historische Entwurfs- und Eröffnungsangaben, keine heutige Bestandszählung. Rolltreppen, Aufzüge und die Spiralroute übernehmen unterschiedliche Wege durch das Haus. [OMA 1; LMN 5]
 
@@ -90,7 +90,7 @@ Ein gemeinsames Rautenmodul vereinheitlicht die wechselnden Fassadenneigungen. D
 
 Sonnenexponierte Scheiben enthalten ein Aluminium-Streckmetallgewebe. Es reduziert direkte Einstrahlung und lässt zugleich Ausblicke zu. Laut LMN erhielten etwa die Hälfte der Isoliergläser Kryptonfüllungen und leistungsfähige Low-E-Beschichtungen; das Gewebe liegt im ausgeführten System in einem 2-mm-Zwischenraum. Diese Angaben betreffen unterschiedliche Fassadentypen, nicht eine überall identische Verglasung. [LMN 5]
 
-Seele entwickelte ein dreistufiges Dichtungssystem und prüfte einen Fassadenausschnitt im Maßstab 1:1 unter kontrollierten Wetterbedingungen. MKA nennt LEED Silver und vor Ort gesammeltes Regenwasser für Bewässerung. Diese Entwurfs- und Zertifizierungsangaben ersetzen keine Auswertung des heutigen Energieverbrauchs. [LMN 5; MKA 6]
+Seele entwickelte ein dreistufiges Dichtungssystem. Ein Fassadenausschnitt wurde im Maßstab 1:1 unter kontrollierten Wetterbedingungen geprüft; LMN benennt keinen separaten Prüfbetreiber. MKA nennt LEED Silver und vor Ort gesammeltes Regenwasser für Bewässerung. Diese Entwurfs- und Zertifizierungsangaben ersetzen keine Auswertung des heutigen Energieverbrauchs. [LMN 5; MKA 6]
 
 Die Betreiber-Audiotour nennt einen Regenwassertank von 40.000 US-Gallonen, rund 151.400 Litern, für die Landschaftsbewässerung. LMN beschreibt auch den Wartungsaufwand: Für unterschnittene Glasflächen wurden zusätzliche Edelstahlösen zur Sicherung der Reinigungskräfte vorgesehen. Der ausgeprägte Ausdruck des Hauses ist deshalb mit besonderen betrieblichen Anforderungen verbunden. [SPL 17; LMN 5]
 
@@ -110,7 +110,7 @@ Die Fotos zeigen bestimmte Aufnahmezeitpunkte. Sie dokumentieren keine vollstän
 
 Seattle steht in OMAs Untersuchung der Bibliothek als zusammenhängender Wissens- und Aufenthaltslandschaft: Jussieu (Entwurf 1992) verbindet Bibliotheksräume über verformte Ebenen, Seattle (2004) ordnet sie in Plattformen und Zwischenräumen, Caen (Projektabschluss 2016, eröffnet 2017) und Qatar (2017 fertiggestellt, feierlich eröffnet 2018) entwickeln weitere große öffentliche Leselandschaften. SPL überliefert Herbert Muschamps begeisterte Reaktion zur Eröffnung; MKA dokumentiert Architektur- und Ingenieurpreise. Diese Anerkennung beschreibt Rezeption, sie beweist weder universelle Orientierung noch dauerhafte technische Effizienz. [OMA 10–12; SPL 2; MKA 6]
 
-Mini-Zeitleiste: 1992 Jussieu (nicht gebaut) → 2004 Seattle → 2017 Caen / Qatar (Qatar öffentlich eröffnet 2018).
+Mini-Zeitleiste: 1992 Jussieu (nicht gebaut) → 2004 Seattle → 2017 Caen / Qatar (Qatar: Öffnung 2017, feierliche offizielle Eröffnung 2018).
 
 ## 12 · Bezug zur Aufgabe & kritische Übertragung — Prinzipien prüfen, bevor man die Form übernimmt
 
@@ -164,7 +164,7 @@ Nicht realisierter Bibliotheksentwurf 1992 als typologischer Bezug.
 
 [OMA 11] OMA · Qatar National Library
 https://www.oma.com/projects/qatar-national-library
-Späterer Bibliotheksentwurf; Fertigstellung 2017, öffentliche Eröffnung 2018 separat behandeln.
+Späterer Bibliotheksentwurf; Fertigstellung und Öffnung 2017, feierliche offizielle Eröffnung am 17. April 2018. OMA unterscheidet diese Ereignisse in Projektdaten und verknüpfter Meldung.
 
 [OMA 12] OMA · Bibliothèque Alexis de Tocqueville
 https://www.oma.com/projects/bibliotheque-alexis-de-tocqueville
@@ -189,3 +189,7 @@ Regenwassertank, Erschließung, Erprobung der Spirale und Raumdetails.
 [SPL 16] The Seattle Public Library · Central Library Tours
 https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-tours
 Aktuelle Floor-by-floor-Orientierung; von historischen Programmbezeichnungen getrennt.
+
+[OMA 18] OMA · Rem Koolhaas
+https://www.oma.com/partners/rem-koolhaas
+Geburt 1944 in Rotterdam, OMA-Gründung 1975 und Veröffentlichungen; ergänzt die Pritzker-Biografie.

@@ -8,6 +8,6 @@ url: https://commons.wikimedia.org/wiki/File:Support_Structure_-_Seattle_Public_
 download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Support_Structure_-_Seattle_Public_Library.jpg/1920px-Support_Structure_-_Seattle_Public_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 license: CC BY 2.0
 license_url: https://creativecommons.org/licenses/by/2.0
-category: Reading Room / Stützen und Arbeitsplätze
-description: Arbeitsplätze im Reading Room mit Stütze, Deckenuntersicht und diagonaler Fassadenstruktur.
+category: Tragwerk / Innenraum
+description: Blick zwischen Trägern und Stützen der Tragstruktur mit Deckenuntersicht; keine erkennbaren Arbeitsplätze. Die genaue Aufnahmeebene wird nicht behauptet.
 original_dimensions: [2048, 1536]

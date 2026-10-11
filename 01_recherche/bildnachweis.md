@@ -222,7 +222,7 @@ Vollständige Nachweise aller 33 Materialien. Zugeschnittene Folienfotos und ver
 - Lizenzlink: https://creativecommons.org/licenses/by-sa/2.0
 - Typ/Hinweis: Books Spiral
 
-## F13 — Vertikale Raumbeziehungen
+## F13 — Blick von Level 10 in den Living Room
 
 - Datei: `04_fotos/13_atrium-blick.jpg`
 - Urheber: brewbooks from near Seattle, USA
@@ -230,9 +230,9 @@ Vollständige Nachweise aller 33 Materialien. Zugeschnittene Folienfotos und ver
 - Lizenz: CC BY-SA 2.0
 - Quelle: https://commons.wikimedia.org/wiki/File:River_of_Books_-_Flickr_-_brewbooks.jpg
 - Lizenzlink: https://creativecommons.org/licenses/by-sa/2.0
-- Typ/Hinweis: Books Spiral / vertikale Raumbeziehung
+- Typ/Hinweis: Living Room / Blick von Level 10
 
-## F14 — Diagonales Stahlgitter im Innenraum
+## F14 — Diagonales Fassadenraster von innen
 
 - Datei: `04_fotos/14_stahltragwerk-innen.jpg`
 - Urheber: Jan Tik
@@ -240,7 +240,7 @@ Vollständige Nachweise aller 33 Materialien. Zugeschnittene Folienfotos und ver
 - Lizenz: CC BY 2.0
 - Quelle: https://commons.wikimedia.org/wiki/File:Seattle_library_framework_inside.jpg
 - Lizenzlink: https://creativecommons.org/licenses/by/2.0
-- Typ/Hinweis: Tragwerk / Innenraum
+- Typ/Hinweis: Fassadenraster / Innenraum
 
 ## F15 — Children’s Library
 
@@ -252,7 +252,7 @@ Vollständige Nachweise aller 33 Materialien. Zugeschnittene Folienfotos und ver
 - Lizenzlink: https://creativecommons.org/licenses/by-sa/2.0
 - Typ/Hinweis: Children’s Library
 
-## F16 — Stütze und Arbeitsplätze im Reading Room
+## F16 — Träger und Stützen im Innenraum
 
 - Datei: `04_fotos/16_tragwerk-detail.jpg`
 - Urheber: Jan Tik
@@ -260,9 +260,9 @@ Vollständige Nachweise aller 33 Materialien. Zugeschnittene Folienfotos und ver
 - Lizenz: CC BY 2.0
 - Quelle: https://commons.wikimedia.org/wiki/File:Support_Structure_-_Seattle_Public_Library.jpg
 - Lizenzlink: https://creativecommons.org/licenses/by/2.0
-- Typ/Hinweis: Reading Room / Stützen und Arbeitsplätze
+- Typ/Hinweis: Tragwerk / Innenraum
 
-## F17 — Innenaufnahme im Eröffnungsjahr 2004
+## F17 — Living Room im Eröffnungsjahr 2004
 
 - Datei: `04_fotos/17_innenraum-2004.jpg`
 - Urheber: Jim Harper
@@ -270,7 +270,7 @@ Vollständige Nachweise aller 33 Materialien. Zugeschnittene Folienfotos und ver
 - Lizenz: CC BY-SA 1.0
 - Quelle: https://commons.wikimedia.org/wiki/File:Seattle_Central_Library_interior.jpg
 - Lizenzlink: https://creativecommons.org/licenses/by-sa/1.0
-- Typ/Hinweis: Historische Innenaufnahme 2004
+- Typ/Hinweis: Living Room / historische Innenaufnahme 2004
 
 ## F18 — Stadtbezug · erhöhte Perspektive
 

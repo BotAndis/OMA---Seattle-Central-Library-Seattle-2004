@@ -3,7 +3,7 @@
     {
       "file": "Seattle_Central_Library_Recherche_Johannes_Fink.pdf",
       "pages": 20,
-      "words": 3784,
+      "words": 3871,
       "page_points": [
         594.96,
         841.92
@@ -12,7 +12,7 @@
     {
       "file": "05_praesentation/OMA_Seattle_Central_Library_Praesentation_Fink.pdf",
       "pages": 16,
-      "words": 2233,
+      "words": 2416,
       "page_points": [
         960.0,
         540.0
@@ -22,5 +22,13 @@
   "pptx_slides": 16,
   "material_count": 33,
   "spoken_seconds": 300,
-  "browser_checks": "33 image assets loaded, selection persisted, 3 sets/filter/levels/dialog functional, no mobile horizontal overflow, no overflow on 16 slides"
+  "browser_checks": "33 image assets loaded, selection persisted, 3 sets/filter/levels/dialog functional, no mobile horizontal overflow, no overflow on 16 slides",
+  "content_audit": {
+    "claim_checkpoints": 153,
+    "individually_reviewed_materials": 33,
+    "commons_metadata_records_checked": 18,
+    "identical_remote_image_downloads": 28,
+    "pdf_pages_visually_reviewed": 36,
+    "report": "01_recherche/gegenpruefung.md"
+  }
 }
