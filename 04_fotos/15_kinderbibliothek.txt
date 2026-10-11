@@ -1,0 +1,15 @@
+id: 15_kinderbibliothek
+title: Childrens Library Seattle Central Library (259437129).jpg
+path: 04_fotos/15_kinderbibliothek.jpg
+author: brewbooks from near Seattle, USA
+date: 2006-10-01 13:40
+source: Wikimedia Commons
+url: https://commons.wikimedia.org/wiki/File:Childrens_Library_Seattle_Central_Library_(259437129).jpg
+download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Childrens_Library_Seattle_Central_Library_%28259437129%29.jpg/1920px-Childrens_Library_Seattle_Central_Library_%28259437129%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+license: CC BY-SA 2.0
+license_url: https://creativecommons.org/licenses/by-sa/2.0
+category: Children’s Library
+description: I like the man-made pattern of the lights in contrast with the tree branch.
+
+i100106 093
+original_dimensions: [3504, 2336]

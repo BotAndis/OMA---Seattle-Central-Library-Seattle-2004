@@ -1,0 +1,15 @@
+id: 12_books-spiral-oben
+title: Near the top of the Book Spiral - Flickr - brewbooks.jpg
+path: 04_fotos/12_books-spiral-oben.jpg
+author: brewbooks from near Seattle, USA
+date: 2009-12-06 01:41
+source: Wikimedia Commons
+url: https://commons.wikimedia.org/wiki/File:Near_the_top_of_the_Book_Spiral_-_Flickr_-_brewbooks.jpg
+download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Near_the_top_of_the_Book_Spiral_-_Flickr_-_brewbooks.jpg/1920px-Near_the_top_of_the_Book_Spiral_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+license: CC BY-SA 2.0
+license_url: https://creativecommons.org/licenses/by-sa/2.0
+category: Books Spiral
+description: On a photo tour of Seattle Central Library with listorama
+
+seattle 043
+original_dimensions: [3888, 2592]

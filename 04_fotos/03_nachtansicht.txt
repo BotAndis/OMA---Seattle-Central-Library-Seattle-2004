@@ -1,0 +1,13 @@
+id: 03_nachtansicht
+title: Seattle Public Library main branch night.jpg
+path: 04_fotos/03_nachtansicht.jpg
+author: Cyprien Lomas
+date: 2005-03-27 22:13
+source: Wikimedia Commons
+url: https://commons.wikimedia.org/wiki/File:Seattle_Public_Library_main_branch_night.jpg
+download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Seattle_Public_Library_main_branch_night.jpg/1920px-Seattle_Public_Library_main_branch_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+license: CC BY-SA 2.0
+license_url: https://creativecommons.org/licenses/by-sa/2.0
+category: Außenansicht bei Nacht
+description: Seattle Public Library designed by Rem Koolhaas.
+original_dimensions: [2560, 1920]

@@ -1,0 +1,13 @@
+id: 01_aussen-stadtblock
+title: Seattle (WA, USA), Seattle Central Library -- 2022 -- 200930.jpg
+path: 04_fotos/01_aussen-stadtblock.jpg
+author: Dietmar Rabich
+date: Taken on 11 June 2022, 20:09
+source: Wikimedia Commons
+url: https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_Seattle_Central_Library_--_2022_--_200930.jpg
+download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Seattle_%28WA%2C_USA%29%2C_Seattle_Central_Library_--_2022_--_200930.jpg/1920px-Seattle_%28WA%2C_USA%29%2C_Seattle_Central_Library_--_2022_--_200930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+license: CC BY-SA 4.0
+license_url: https://creativecommons.org/licenses/by-sa/4.0
+category: Außenansicht / Stadtbezug
+description: Seattle Central Library in Seattle, Washington, USA
+original_dimensions: [2443, 2172]

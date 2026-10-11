@@ -1,0 +1,10 @@
+id: a01_programm
+title: Fünf feste Cluster · vier Zwischenzonen
+path: 02_analysen/a01_programm.svg
+author: Johannes Fink · eigene Analyseskizze
+date: 2026
+source: Eigene Darstellung nach [OMA 1; SPL 2; SPL 16]
+url: #quellen
+license: CC BY 4.0
+category: Eigene Analyse
+description: Schematisch, ohne Maßstab; keine Originalzeichnung und kein vermessener Bestandsplan.

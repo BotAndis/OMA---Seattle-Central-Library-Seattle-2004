@@ -1,0 +1,13 @@
+id: 07_reading-room
+title: Seattle Public Library Main Branch Reading Room.JPG
+path: 04_fotos/07_reading-room.jpg
+author: Eric Hunt
+date: 2006-03-27
+source: Wikimedia Commons
+url: https://commons.wikimedia.org/wiki/File:Seattle_Public_Library_Main_Branch_Reading_Room.JPG
+download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Seattle_Public_Library_Main_Branch_Reading_Room.JPG/1920px-Seattle_Public_Library_Main_Branch_Reading_Room.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+license: CC BY 2.5
+license_url: https://creativecommons.org/licenses/by/2.5
+category: Reading Room
+description: Seattle Public Library, Main Branch, Reading Room
+original_dimensions: [2816, 1880]

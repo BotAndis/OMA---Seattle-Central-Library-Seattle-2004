@@ -1,0 +1,26 @@
+{
+  "pdf": [
+    {
+      "file": "Seattle_Central_Library_Recherche_Johannes_Fink.pdf",
+      "pages": 20,
+      "words": 3784,
+      "page_points": [
+        594.96,
+        841.92
+      ]
+    },
+    {
+      "file": "05_praesentation/OMA_Seattle_Central_Library_Praesentation_Fink.pdf",
+      "pages": 16,
+      "words": 2233,
+      "page_points": [
+        960.0,
+        540.0
+      ]
+    }
+  ],
+  "pptx_slides": 16,
+  "material_count": 33,
+  "spoken_seconds": 300,
+  "browser_checks": "33 image assets loaded, selection persisted, 3 sets/filter/levels/dialog functional, no mobile horizontal overflow, no overflow on 16 slides"
+}

@@ -1,0 +1,13 @@
+id: 10_mixing-chamber
+title: Mixing Chamber and offices - Seattle Central Library (178839789).jpg
+path: 04_fotos/10_mixing-chamber.jpg
+author: brewbooks from near Seattle, USA
+date: 2006-04-02 19:29
+source: Wikimedia Commons
+url: https://commons.wikimedia.org/wiki/File:Mixing_Chamber_and_offices_-_Seattle_Central_Library_(178839789).jpg
+download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Mixing_Chamber_and_offices_-_Seattle_Central_Library_%28178839789%29.jpg/1920px-Mixing_Chamber_and_offices_-_Seattle_Central_Library_%28178839789%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+license: CC BY-SA 2.0
+license_url: https://creativecommons.org/licenses/by-sa/2.0
+category: Mixing Chamber
+description: Draufsicht auf Mixing Chamber und Büros; die Beschriftung auf dem Boden zeigt den Raum eindeutig.
+original_dimensions: [2592, 1944]

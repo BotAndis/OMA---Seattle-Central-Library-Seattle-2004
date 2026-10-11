@@ -1,0 +1,18 @@
+id: 11_books-spiral
+title: Books Spiral - Technology - Flickr - brewbooks.jpg
+path: 04_fotos/11_books-spiral.jpg
+author: brewbooks from near Seattle, USA
+date: 2009-12-06 02:43
+source: Wikimedia Commons
+url: https://commons.wikimedia.org/wiki/File:Books_Spiral_-_Technology_-_Flickr_-_brewbooks.jpg
+download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Books_Spiral_-_Technology_-_Flickr_-_brewbooks.jpg/1920px-Books_Spiral_-_Technology_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+license: CC BY-SA 2.0
+license_url: https://creativecommons.org/licenses/by-sa/2.0
+category: Books Spiral
+description: "The Books Spiral is four floors of book stacks, connected by gentle ramps. The majority of the nonfiction collection — 75 percent of the entire collection — is located on the Books Spiral. This lets the nonfiction collection exist in one continuous run, and avoids the problem of having to move books into other rooms or floors as the collection expands.  ....
+floor mats throughout the Books Spiral are labeled with Dewey Decimal System numbers to help people find the items on each floor."
+Source CENTRAL LIBRARY: FLOOR-BY-FLOOR HIGHLIGHTS accessed 27 Mar 2010
+On a photo tour of Seattle Central Library with listorama
+
+seattle 060
+original_dimensions: [2592, 3888]

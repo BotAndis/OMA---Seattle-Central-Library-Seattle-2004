@@ -1,0 +1,16 @@
+id: 04_fassade-detail
+title: Grid System (5613157595).jpg
+path: 04_fotos/04_fassade-detail.jpg
+author: Andrew Smith from Seattle, WA, USA
+date: 2011-04-03 14:52
+source: Wikimedia Commons
+url: https://commons.wikimedia.org/wiki/File:Grid_System_(5613157595).jpg
+download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Grid_System_%285613157595%29.jpg/1920px-Grid_System_%285613157595%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+license: CC BY-SA 2.0
+license_url: https://creativecommons.org/licenses/by-sa/2.0
+category: Fassade / Material
+description: A small section of the exterior glass wall at Seattle Central Library.
+Nearly 10,000 of the diamond-shaped glass panes cover over 126,000 square feet to create the "exterior curtain".
+
+Source: Seattle Central Library
+original_dimensions: [3818, 3182]

@@ -1,0 +1,162 @@
+{
+  "oma": {
+    "url": "https://www.oma.com/projects/seattle-central-library",
+    "final_url": "https://www.oma.com/projects/seattle-central-library",
+    "status": 200,
+    "bytes": 404156,
+    "text_chars": 2103
+  },
+  "spl_architecture": {
+    "url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-architecture",
+    "final_url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-architecture",
+    "status": 200,
+    "bytes": 76926,
+    "text_chars": 2784
+  },
+  "spl_history": {
+    "url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-history",
+    "final_url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-history",
+    "status": 200,
+    "bytes": 86211,
+    "text_chars": 8514
+  },
+  "spl_facts": {
+    "url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-facts",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "lmn": {
+    "url": "https://lmnarchitects.com/project/seattle-central-library",
+    "final_url": "https://lmnarchitects.com/projects",
+    "status": 200,
+    "bytes": 130812,
+    "text_chars": 6338
+  },
+  "mka": {
+    "url": "https://www.mka.com/projects/seattle-central-library/",
+    "final_url": "https://www.mka.com/projects/seattle-central-library/",
+    "status": 200,
+    "bytes": 346000,
+    "text_chars": 3402
+  },
+  "seele": {
+    "url": "https://seele.com/references/seattle-central-library",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "front": {
+    "url": "https://www.frontinc.com/project/seattle-central-library/",
+    "final_url": "https://front.global/project/seattle-central-library/",
+    "status": 200,
+    "bytes": 31917,
+    "text_chars": 3688
+  },
+  "arup": {
+    "url": "https://www.arup.com/projects/seattle-central-library/",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "spl_highlights": {
+    "url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights",
+    "final_url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights",
+    "status": 200,
+    "bytes": 82389,
+    "text_chars": 3932
+  },
+  "spl_buildingfacts": {
+    "url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-building-facts",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "spl_sustainability": {
+    "url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-sustainable-design",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "pritzker": {
+    "url": "https://www.pritzkerprize.com/laureates/2000",
+    "final_url": "https://www.pritzkerprize.com/laureates/2000",
+    "status": 200,
+    "bytes": 59794,
+    "text_chars": 13598
+  },
+  "oma_about": {
+    "url": "https://www.oma.com/office",
+    "final_url": "https://www.oma.com/office",
+    "status": 200,
+    "bytes": 129880,
+    "text_chars": 4849
+  },
+  "oma_rem": {
+    "url": "https://www.oma.com/partners/rem-koolhaas",
+    "final_url": "https://www.oma.com/partners/rem-koolhaas",
+    "status": 200,
+    "bytes": 174730,
+    "text_chars": 21691
+  },
+  "oma_jussieu": {
+    "url": "https://www.oma.com/projects/jussieu-two-libraries",
+    "final_url": "https://www.oma.com/projects/jussieu-two-libraries",
+    "status": 200,
+    "bytes": 199961,
+    "text_chars": 1042
+  },
+  "oma_qatar": {
+    "url": "https://www.oma.com/projects/qatar-national-library",
+    "final_url": "https://www.oma.com/projects/qatar-national-library",
+    "status": 200,
+    "bytes": 293677,
+    "text_chars": 5765
+  },
+  "oma_alexis": {
+    "url": "https://www.oma.com/projects/bibliotheque-alexis-de-tocqueville",
+    "final_url": "https://www.oma.com/projects/bibliotheque-alexis-de-tocqueville",
+    "status": 200,
+    "bytes": 368963,
+    "text_chars": 5757
+  },
+  "rex_seattle": {
+    "url": "https://rex-ny.com/project/seattle-central-library/",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "lmn_seattle": {
+    "url": "https://lmnarchitects.com/projects/seattle-central-library",
+    "final_url": "https://lmnarchitects.com/lmn-research/seattle-central-library-curtain-wall-design",
+    "status": 200,
+    "bytes": 74520,
+    "text_chars": 13542
+  },
+  "spl_art": {
+    "url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-art",
+    "final_url": "https://www.spl.org/hours-and-locations/central-library/central-library-highlights/central-library-art",
+    "bytes": 94712,
+    "status": 200
+  },
+  "spl_audio": {
+    "url": "https://www.spl.org/Seattle-Public-Library/documents/transcriptions/tours/Central-Library-Audio-Tour.pdf",
+    "final_url": "https://www.spl.org/Seattle-Public-Library/documents/transcriptions/tours/Central-Library-Audio-Tour.pdf",
+    "bytes": 245914,
+    "status": 200
+  },
+  "rex_home": {
+    "url": "https://rex-ny.com/",
+    "final_url": "https://rex-ny.com/",
+    "bytes": 48981,
+    "status": 200
+  },
+  "spl_lfa": {
+    "url": "https://www.spl.org/about-us/the-organization/libraries-for-all",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "spl_lfa2": {
+    "url": "https://www.spl.org/about-us/the-organization/libraries-for-all-building-program",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "bing_cost": {
+    "url": "https://www.bing.com/search?q=site%3Aspl.org%20Seattle%20Central%20Library%20%22%24169%22",
+    "final_url": "https://www.bing.com/search?q=site%3Aspl.org%20Seattle%20Central%20Library%20%22%24169%22",
+    "bytes": 121062,
+    "status": 200
+  },
+  "bing_sust": {
+    "url": "https://www.bing.com/search?q=site%3Aspl.org%20Central%20Library%20LEED%20silver%20recycled",
+    "final_url": "https://www.bing.com/search?q=site%3Aspl.org%20Central%20Library%20LEED%20silver%20recycled",
+    "bytes": 120556,
+    "status": 200
+  }
+}

@@ -1,0 +1,13 @@
+id: 08_red-floor
+title: Reception in Red (5756533584).jpg
+path: 04_fotos/08_red-floor.jpg
+author: Andrew Smith from Seattle, WA, USA
+date: 2011-05-23 17:22
+source: Wikimedia Commons
+url: https://commons.wikimedia.org/wiki/File:Reception_in_Red_(5756533584).jpg
+download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Reception_in_Red_%285756533584%29.jpg/1920px-Reception_in_Red_%285756533584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+license: CC BY-SA 2.0
+license_url: https://creativecommons.org/licenses/by-sa/2.0
+category: Red Floor
+description: The fourth floor of the Seattle Central Library is entirely red.
+original_dimensions: [3725, 2979]

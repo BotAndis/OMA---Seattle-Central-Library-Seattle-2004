@@ -1,0 +1,82 @@
+[
+  {
+    "filename": "p01_lageplan_sichtachsen_oma.jpg",
+    "title": "Lageplan: Sichtachsen zur Elliott Bay, zum Mount Rainier und von I-5",
+    "author": "OMA",
+    "source": "https://www.oma.com/projects/seattle-central-library",
+    "direct": "https://cdn.sanity.io/images/5azy6oei/production/41388b7bf5d7dac3498ba4f7a9c2ece2378e7259-2748x3118.jpg",
+    "note": "Konzeptioneller Lageplan, nicht vermessener Bestandslageplan."
+  },
+  {
+    "filename": "p02_programmschnitt_oma.jpg",
+    "title": "Programm-Schnitt: Plattformen und öffentliche Zwischenräume",
+    "author": "OMA",
+    "source": "https://www.oma.com/projects/seattle-central-library",
+    "direct": "https://cdn.sanity.io/images/5azy6oei/production/a6cab9732a999f8725a63d711fbbd9558d54d5d2-1142x1117.tif?fm=jpg",
+    "note": "Schematischer Programmschnitt, kein bemaßter Ausführungsplan."
+  },
+  {
+    "filename": "p03_grundriss_level3_lmn.jpg",
+    "title": "Grundriss Level 3 / Living Room",
+    "author": "OMA + LMN (Projektplanung); Veröffentlichung: LMN Architects",
+    "source": "https://lmnarchitects.com/lmn-research/seattle-central-library-curtain-wall-design",
+    "direct": "https://lmnarchitects.com/wp-content/uploads/2021/12/pln-03.jpg",
+    "note": "Originalplan gemäß Caption Third floor plan."
+  },
+  {
+    "filename": "p06_schnitt_ost_west_lmn.jpg",
+    "title": "Gebäudeschnitt Ost–West",
+    "author": "OMA + LMN (Projektplanung); Veröffentlichung: LMN Architects",
+    "source": "https://lmnarchitects.com/lmn-research/seattle-central-library-curtain-wall-design",
+    "direct": "https://lmnarchitects.com/wp-content/uploads/2021/12/East-West-section.jpg",
+    "note": "Zeigt geneigte Geschosse der Books Platform."
+  },
+  {
+    "filename": "p07_schnitt_nord_sued_lmn.jpg",
+    "title": "Gebäudeschnitt Nord–Süd",
+    "author": "OMA + LMN (Projektplanung); Veröffentlichung: LMN Architects",
+    "source": "https://lmnarchitects.com/lmn-research/seattle-central-library-curtain-wall-design",
+    "direct": "https://lmnarchitects.com/wp-content/uploads/2021/12/North-South-section.jpg",
+    "note": "Zeigt Auditorium und Atrium."
+  },
+  {
+    "filename": "p08_ansicht_fassadenabwicklung_lmn.jpg",
+    "title": "Ansicht: abgewickelte Fassadenhülle",
+    "author": "OMA + LMN (Projektplanung); Veröffentlichung: LMN Architects",
+    "source": "https://lmnarchitects.com/lmn-research/seattle-central-library-curtain-wall-design",
+    "direct": "https://lmnarchitects.com/wp-content/uploads/2021/12/Unfolded-elevation.jpg",
+    "note": "Fassadenabwicklung identifiziert Facetten, Rauten und mechanische Lüftungsgitter; keine einzelne orthogonale Straßenansicht."
+  },
+  {
+    "filename": "p09_detail_level4_5_lmn.jpg",
+    "title": "Fassadenschnitt: Level 4 und 5",
+    "author": "OMA + LMN (Projektplanung); Veröffentlichung: LMN Architects",
+    "source": "https://lmnarchitects.com/lmn-research/seattle-central-library-curtain-wall-design",
+    "direct": "https://lmnarchitects.com/wp-content/uploads/2021/12/4th-Floor-section.jpg",
+    "note": "Außenwanddetail mit schräger, vertikaler und unterschnittener Curtain Wall."
+  },
+  {
+    "filename": "p10_detail_books_platform_lmn.jpg",
+    "title": "Fassadenschnitt: Books Platform",
+    "author": "OMA + LMN (Projektplanung); Veröffentlichung: LMN Architects",
+    "source": "https://lmnarchitects.com/lmn-research/seattle-central-library-curtain-wall-design",
+    "direct": "https://lmnarchitects.com/wp-content/uploads/2021/12/Books-section.jpg",
+    "note": "Außenwanddetail an der Books Platform."
+  },
+  {
+    "filename": "p04_grundriss_level5_oma.jpg",
+    "title": "Grundriss Level 5 / Mixing Chamber",
+    "author": "OMA (Provider-ID 50778c0e28ba0d4d95000028, Galerie-Metadaten)",
+    "source": "https://www.archdaily.com/11651/seattle-central-library-oma-lmn/57219188e58ece9438000007-seattle-central-library-oma-lmn-plan-5",
+    "direct": "https://images.adsttc.com/media/images/5721/9188/e58e/ce94/3800/0007/large_jpg/pln-05graphics.jpg?1461817710",
+    "note": "OMA Originalzeichnung, publiziert in ArchDaily; LMN Primärquelle verlinkt diese Plansammlung. Keine Faktenbehauptungen allein auf ArchDaily gestützt."
+  },
+  {
+    "filename": "p05_grundriss_level8_oma.jpg",
+    "title": "Grundriss Level 8 / Books Spiral",
+    "author": "OMA (Provider-ID 50778c0e28ba0d4d95000028, Galerie-Metadaten)",
+    "source": "https://www.archdaily.com/11651/seattle-central-library-oma-lmn/572191dee58ece9438000008-seattle-central-library-oma-lmn-plan-8",
+    "direct": "https://images.adsttc.com/media/images/5721/91de/e58e/ce94/3800/0008/large_jpg/pln-08graphics.jpg?1461817792",
+    "note": "OMA Originalzeichnung, publiziert in ArchDaily; LMN Primärquelle verlinkt diese Plansammlung. Keine Faktenbehauptungen allein auf ArchDaily gestützt."
+  }
+]

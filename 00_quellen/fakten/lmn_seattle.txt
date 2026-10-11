@@ -1,0 +1,82 @@
+Seattle Central Library Curtain Wall Design - LMN Architects
+Studio
+Projects
+Explorations
+The Shop
+News
+Contact
+search
+search
+close
+Studio
+Team
+Methodology
+Collaborations
+Recognition
+Projects
+Explorations
+The Shop
+News
+Contact
+Studio
+Projects
+Explorations
+The Shop
+News
+Contact
+search
+search
+close
+Back To All Research
+#curtainwall, #technology
+Seattle Central Library Curtain Wall Design
+Design Concept & Collaboration
+The diagrammatic form of the Seattle Public Library’s glass and metal skin began with the simple concept of wrapping the entire building in a continuous layer of transparency. This layer, with its faceted planes, outlines elevated platforms of program spaces on the exterior while creating a variety of interconnected spaces on the interior. Unifying these shifting planes of glass, a common diamond module has been utilized for the mullion framing across the entire envelope. Seemingly simple in concept, the curtain wall glazing system is comprised of numerous components, each requiring function both separately and as a complete assembly.
+Knowing that a custom curtain wall system would be required, the project team initiated an early bid package describing the scope and design intent of the general system. Using this delivery method, the design team, led by joint venture architect OMA|LMN, hoped to gain greater control over the system’s final outcome by having technical expertise available during the design process. The bid was awarded to the German firm, Seele GmbH & Co, under a design-build contract. This collaboration between architect and manufacturer helped the curtain wall system develop from the initial design concepts into constructible reality with little loss in translation. The team reviewed the design of the system and its components from many aspects including aesthetics, structural capacity, thermal performance, weatherproofing, maintenance, and constructability.
+Supporting Structure
+In order to understand the construction of the curtain wall system, some understanding of the building’s structural systems is necessary. In general the structure is composed of both load-bearing and seismic systems. The load-bearing system, in the form of columns and beams, supports the elevated platforms containing program spaces. The seismic structure, I-beam steel arranged in lattice-like geometry, connects platform to platform providing bracing during a seismic event. While both systems exist to ensure the building’s stability, they each create different conditions for the support of the curtain wall.
+Typical Mullion System
+The predominant mullion system sloping in both an overslung (skylight) and underslung (reverse skylight) orientation became the basis for many design development studies. The final design incorporates a diamond module that marries the most efficient use of non-standard glass panel shapes with adequate steel spanning capacity. Since it is directly supported on seismic steel, this particular system incorporates a thinner overall depth with a thickened aluminum section to allow for greater spanning ability and fewer support connections. The resulting engineered mullion system relies on only two connection points per diamond. While adding efficiency to the curtain wall system, the utilization of seismic steel for direct support also added much complexity. Due to its high cost, architectural grade steel could not be specified for the seismic structure; therefore, erection tolerance differences between the steel and curtainwall system are considerable. To allow for these different tolerances, Seele developed setting blocks of various depths with hidden slots routed into them. The slots provide multiple planes of adjustment allowing holes connecting steel and aluminum to align. The mullion system’s multiple components are attached using a screw-within-a-screw attachment allowing for sequenced installation of each component while minimizing the number of connection points needed. To emphasize the component construction of the curtain wall system, each of these stainless steel screw attachments are exposed to view.
+Typical sloping mullion detail. Position of metal mesh is indicated by hatching toward the exterior face of glass. Gasketed areas indicate levels of defense against moisture. Width of mullion body equals width of the seismic steel support.
+Vertical Mullion
+At the vertical glass facades, a different mullion system had to be developed. Unlike the sloping facades, there is no seismic steel at the vertical facades to be used for structural support. For these areas the team designed a deeper aluminum mullion that would withstand lateral loading while spanning from floor to floor along a diagonal. When viewed from the exterior, the appearance of both the vertical and sloped mullion systems match. On the interior however the deeper aluminum profile of the vertical mullion body adds sufficient strength to sustain lateral curtain wall loads between floors. Originally designed as a rectangle profile, the mullion was later shaped to mimic the I-beam profile of the sloping seismic steel. A hollow void within the mullion section allows an aluminum splice plate to join mullions at tall façade sections. The void also provides space for aluminum plates to snap in at each floor edge, closing the gap between slab edge and glass. The vertical weight of each facet is supported from below on armatures connected back to the structure. Lateral bracing is transferred through threaded rod attachments located along the edge of each floor. Not only providing tolerance adjustment, the threaded rods are sized to flex when responding to thermal movement of the curtain wall system.
+Typical vertical mullion detail. Exter designed to match the appearance of the sloping mullion. Interior mullion shaped to match the profile of the seismic I-beams found at all the sloping facades. Void shown adds strength while creating space for splice plate to connect mullion ends.
+Thermal Performance
+Integral to the design development of the curtain wall was the envelope’s thermal performance. Except for the roof, louvers, and exposed concrete foundation walls, the exterior envelope is comprised entirely of vision glass. This posed a considerable challenge to the design team given the current energy codes and required thermal properties the curtain wall system would need to achieve. The entire envelope, including all of its component parts, was considered in the energy calculations. To help meet the required performance level, approximately half of the insulated glazing panels were fabricated with airspaces containing krypton gas and newly developed high performance low-E coatings. In addition, to combat increased solar heat gain experienced during the summer months, an aluminum expanded metal mesh interlayer was chosen for the glass panels receiving the most sun. The mesh’s mini-louvers provide shielding of direct sun while at the same time providing views to the exterior through the mesh. Not only ideal for shading, the micro diamond pattern of the metal mesh mimics the larger diamond pattern of the curtain wall mullions. Originally envisioned to be laminated between sheets of glass, the metal mesh floats within a 2 mm airspace in the final design. Clear low-iron glass is used in front of the mesh to brighten its appearance when viewed from the exterior.
+Weatherproofing
+In waterproofing the building against Seattle’s rainy climate, Seele designed three levels of defense into the system: 1) the exterior aluminum mullion cap with pre-molded silicone gaskets, 2) insulated glazing panels with flexible butyl tape applied along every joint between panels, and 3) silicone gasket molded to fit the interior surface of the mullion body. While the mullion cap, seals and glass keep most of the water from entering the system, the next two layers channel any remaining moisture to weep holes along the lower edge of each façade. Even standing water caught at the lower vertex of each diamond is addressed by tooling a slight ramp in the sealant joints of adjacent mullions allowing for the water’s release. To verify these measures actually worked as designed, a portion of the building was built at full scale and forced to undergo extreme weather testing in controlled conditions.
+Corner Panels
+The complicated geometry of the façade facets, including four that are non-planar, meant increased scrutiny where adjacent surfaces meet to form a seam. Insulated aluminum closure panels were designed to transition across each seam while maintaining angle alignment with the adjacent planes of glass. Because the geometry for each facet needed to be precise, the position of the seismic steel was located supplemental to the curtain wall’s position in order to guarantee tight-fitting seams. A typical process would have the steel located first with the curtain wall layered over it.
+Each of the building’s four general street elevations has a diamond module contiguous from top to bottom, bending at each horizontal seam. Because of differing geometries, the diamond module is not contiguous around corners. This creates four vertical “corner” conditions, one at each elevation’s edge. Corner panels having an inward profile accentuate the discontinuity of the diamond pattern. All other panels have an in-plane alignment from facet to facet where diamond patterns align. This geometry was tracked throughout the course of the project by use of an “unfolded” elevation diagram depicting the best overall view of the certain wall’s complexity.
+Typical corner panel. Insulated aluminum panel formed with notch to emphasize the four corners of the building.
+Gutter & Snow Fence
+Special attention was given to facets where water collection and snow restraint were of concern. Gutters sized for the required capacity are incorporated as a thin trough across the lower edge of each facet. Since horizontal joints allowing for thermal movement could not be incorporated into the mullion’s diamond pattern, expansion space has been provided at the leading edge of each gutter. Three-quarter inch thick stainless steel snow fences have been located in the gutter openings where necessary. Used to retard snow and ice from sliding off the building’s sloped surfaces, the fences are shaped to appear as if unfolded out of the adjacent gutter void. Each fence is supported by steel armatures that penetrate the gutter’s waterproofing layer and connect back to structural steel.
+Gutter and snow fence detail. Stainless steel components of fence shown extending out of gutter wall. Leading edge of gutter has expansion space for vertical façade below.
+Window Washing
+To clean the expanse of exterior glass, a process inspired by mountain climbing is used. Traditional outriggers at the roof of the building allow window washers to descend each elevation from top to bottom on bosun chairs. While the skylight and vertical facades are scaled more easily, the underslung surfaces require additional measures to reach the glass. Stainless steel eyebolts that protrude through the mullion body and cap are provided at closely spaced intervals. Each eyebolt is attached back to seismic steel members providing load carrying capacity. Window washers use carabiners to connect to these eyebolts in order to pull themselves within reach of the glass. These same eyebolts would also be utilized to support small work platforms should it be necessary to replace any underslung glass panels.
+Typical eyebolt detail used to gain access to hard to reach areas of the curtain wall. Stainless steel bar with fixing point shown connected to steel support, penetrating mullion body.
+Conclusion
+Fabricated entirely in Germany and shipped overseas to Seattle for installation, the library’s curtain wall system has made a long journey both physically and metaphorically. From sketches to shop drawings, the collaborative design and engineering effort has produced a working envelope that fulfills stringent functional requirements while still expressing its earliest conceptual intentions.
+All Images
+Slideshow
+Unfolded elevation diagram used to identify facets and diamond geometry of the curtain wall. Areas of storefront glazing are indicated with vertical mullions at grade. Darker diamonds indicate area of mechanical louvers.
+East-West section through the building showing the sloped floors of the books platform. Curtain wall segments can be seen connecting edges of the elevated platforms to create varied interior public spaces.
+North-South section through the building showing auditorium and atrium areas. Curtain wall segments can be seen connecting edges of the elevated platforms to create varied interior public spaces.
+Third floor plan.
+Exterior wall section at 4th and 5th floors showing sloped, vertical, and underslung orientations of the curtain wall.
+Exterior wall section at books platform showing sloped, vertical, and underslung orientations of the curtain wall.
+Information Links
+Plans, Sections, Diagrams
+of the library from ArchDAILY.com
+Excellent articles targeting design, process, and production
+of the curtain wall by Front, Inc.
+Form Follows Function
+article and diagrams published in the Seattle P-I
+The Library That Puts on Fishnets and Hits the Disco
+– NY Times article by Herbert Muschamp
+About the Seattle Central Library
+articles posted on the SPL website
+Pushing the Envelope
+Civil Engineering Magazine article by MKA’s Derek Beaman,P.E. and others
+An Engineering Challenge
+article and diagrams published in the Seattle P-I

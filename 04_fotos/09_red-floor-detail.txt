@@ -1,0 +1,13 @@
+id: 09_red-floor-detail
+title: Red rooms (3233624954).jpg
+path: 04_fotos/09_red-floor-detail.jpg
+author: Dave Nakayama
+date: 2009-01-26 16:00
+source: Wikimedia Commons
+url: https://commons.wikimedia.org/wiki/File:Red_rooms_(3233624954).jpg
+download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Red_rooms_%283233624954%29.jpg/1920px-Red_rooms_%283233624954%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+license: CC BY 2.0
+license_url: https://creativecommons.org/licenses/by/2.0
+category: Red Floor
+description: Rote Treppe und Korridor zu den Besprechungsräumen auf Ebene 4.
+original_dimensions: [2808, 1872]

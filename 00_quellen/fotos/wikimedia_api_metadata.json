@@ -1,0 +1,2039 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "755556": {
+        "pageid": 755556,
+        "ns": 6,
+        "title": "File:Support Structure - Seattle Public Library.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2301165,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Support_Structure_-_Seattle_Public_Library.jpg/1920px-Support_Structure_-_Seattle_Public_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1800,
+            "thumbheight": 1350,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/44/Support_Structure_-_Seattle_Public_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Support_Structure_-_Seattle_Public_Library.jpg/1920px-Support_Structure_-_Seattle_Public_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 1350,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/44/Support_Structure_-_Seattle_Public_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Support_Structure_-_Seattle_Public_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Support_Structure_-_Seattle_Public_Library.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=755556",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-05-04 10:19:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Support Structure - Seattle Public Library",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot A70|Interior of Seattle Central Library|Flickr images reviewed by FlickreviewR|Information field template with formatting|FlickrLickr images",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Seattle Public Library as seen from above amongst support structure",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2005-04-26 13:56:25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/15363357@N00/11223736\">Flickr</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/15363357@N00\">Jan Tik</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "1316349": {
+        "pageid": 1316349,
+        "ns": 6,
+        "title": "File:Seattle Public Library Main Branch Reading Room.JPG",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2550057,
+            "width": 2816,
+            "height": 1880,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Seattle_Public_Library_Main_Branch_Reading_Room.JPG/1920px-Seattle_Public_Library_Main_Branch_Reading_Room.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1800,
+            "thumbheight": 1202,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Seattle_Public_Library_Main_Branch_Reading_Room.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Seattle_Public_Library_Main_Branch_Reading_Room.JPG/1920px-Seattle_Public_Library_Main_Branch_Reading_Room.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 1202,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Seattle_Public_Library_Main_Branch_Reading_Room.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Seattle_Public_Library_Main_Branch_Reading_Room.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Seattle_Public_Library_Main_Branch_Reading_Room.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1316349",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-10-28 07:12:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Seattle Public Library Main Branch Reading Room",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Panasonic Lumix DMC-FX9|License migration redundant|Interior of Seattle Central Library|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Seattle Public Library, Main Branch, Reading Room",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2006-03-27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Eric Hunt",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "1372189": {
+        "pageid": 1372189,
+        "ns": 6,
+        "title": "File:Seattle library framework inside.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2815553,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Seattle_library_framework_inside.jpg/1920px-Seattle_library_framework_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1800,
+            "thumbheight": 1350,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Seattle_library_framework_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Seattle_library_framework_inside.jpg/1920px-Seattle_library_framework_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 1350,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Seattle_library_framework_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Seattle_library_framework_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Seattle_library_framework_inside.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1372189",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-11-15 19:37:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Seattle library framework inside",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot A70|Glass facades|Interior of Seattle Central Library|Flickr images reviewed by FlickreviewR|Information field template with formatting|FlickrLickr images|Glass facades in the United States",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Seattle Central Library<br>Framework",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2005-04-26 13:20:25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/15363357@N00/11133016\">Flickr</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/15363357@N00\">Jan Tik</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "1462263": {
+        "pageid": 1462263,
+        "ns": 6,
+        "title": "File:Seattle-Public-Library-3rd-floor-2393.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1133706,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Seattle-Public-Library-3rd-floor-2393.jpg/1920px-Seattle-Public-Library-3rd-floor-2393.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1800,
+            "thumbheight": 1350,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Seattle-Public-Library-3rd-floor-2393.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Seattle-Public-Library-3rd-floor-2393.jpg/1920px-Seattle-Public-Library-3rd-floor-2393.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 1350,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Seattle-Public-Library-3rd-floor-2393.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Seattle-Public-Library-3rd-floor-2393.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Seattle-Public-Library-3rd-floor-2393.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1462263",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-12-15 06:55:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Seattle-Public-Library-3rd-floor-2393",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Casio Exilim EX-Z50|CC-BY-SA-2.5,2.0,1.0|License migration redundant|Interior of Seattle Central Library|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Seattle Public Library: looking down into 3rd floor hall",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2006-10-28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Vmenkov\" title=\"User:Vmenkov\">Vladimir Menkov</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Dual-licensed under the GFDL and CC-By-SA-2.5, 2.0, and 1.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "1766028": {
+        "pageid": 1766028,
+        "ns": 6,
+        "title": "File:Seattle Public Library 4th floor 10.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 701650,
+            "width": 2592,
+            "height": 1944,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Seattle_Public_Library_4th_floor_10.jpg/1920px-Seattle_Public_Library_4th_floor_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1800,
+            "thumbheight": 1350,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Seattle_Public_Library_4th_floor_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Seattle_Public_Library_4th_floor_10.jpg/1920px-Seattle_Public_Library_4th_floor_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 1350,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Seattle_Public_Library_4th_floor_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Seattle_Public_Library_4th_floor_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Seattle_Public_Library_4th_floor_10.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1766028",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-03-10 04:56:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Seattle Public Library 4th floor 10",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon Coolpix P2|License migration completed|Interior of Seattle Central Library|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "View from fourth floor, Central Public Library, Seattle, Washington, out into the large reading-room space of the third floor. The fourth floor contains conference rooms, classrooms, and at least one office. Its bright red hallways contrast to the blues and metallic tones that dominate most of the rest of the library.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-02-26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Photo by <a href=\"//commons.wikimedia.org/wiki/User:Jmabel\" title=\"User:Jmabel\">Joe Mabel</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jmabel\" title=\"User:Jmabel\">Joe Mabel</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "GFDL granted by photographer",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "4068259": {
+        "pageid": 4068259,
+        "ns": 6,
+        "title": "File:Seattle Public Library main branch night.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1743865,
+            "width": 2560,
+            "height": 1920,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Seattle_Public_Library_main_branch_night.jpg/1920px-Seattle_Public_Library_main_branch_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1800,
+            "thumbheight": 1350,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Seattle_Public_Library_main_branch_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Seattle_Public_Library_main_branch_night.jpg/1920px-Seattle_Public_Library_main_branch_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 1350,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Seattle_Public_Library_main_branch_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Seattle_Public_Library_main_branch_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Seattle_Public_Library_main_branch_night.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4068259",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-05-18 06:49:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Seattle Public Library main branch night",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon Coolpix 5700|Seattle Central Library|Flickr images reviewed by FlickreviewR|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Seattle Public Library designed by Rem Koolhaas.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2005-03-27 22:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/35034363855@N01/7660239/\">Seattle travel</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/35034363855@N01\">Cyprien Lomas</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "55609337": {
+        "pageid": 55609337,
+        "ns": 6,
+        "title": "File:Mixing Chamber - Seattle Central Library - Flickr - brewbooks.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4492457,
+            "width": 3028,
+            "height": 2463,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Mixing_Chamber_-_Seattle_Central_Library_-_Flickr_-_brewbooks.jpg/1920px-Mixing_Chamber_-_Seattle_Central_Library_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1800,
+            "thumbheight": 1464,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mixing_Chamber_-_Seattle_Central_Library_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Mixing_Chamber_-_Seattle_Central_Library_-_Flickr_-_brewbooks.jpg/1920px-Mixing_Chamber_-_Seattle_Central_Library_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 1464,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mixing_Chamber_-_Seattle_Central_Library_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mixing_Chamber_-_Seattle_Central_Library_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mixing_Chamber_-_Seattle_Central_Library_-_Flickr_-_brewbooks.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55609337",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-01-30 19:11:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mixing Chamber - Seattle Central Library - Flickr - brewbooks",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "2009 in Seattle|Interior of Seattle Central Library|December 2009 in Washington (state)|Flickr images reviewed by FlickreviewR|Photographs by brewbooks|Files with coordinates missing SDC location of creation|Files uploaded by Josve05a (brewbooks)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.606770",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-122.332645",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>On a photo tour of Seattle Central Library with <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/listorama/\">listorama</a>\n</p>\nseattle 069",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-12-06 03:04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/brewbooks/4478313149/\">Mixing Chamber - Seattle Central Library</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/93452909@N00\">brewbooks</a> from near Seattle, USA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "55609489": {
+        "pageid": 55609489,
+        "ns": 6,
+        "title": "File:Books Spiral - Technology - Flickr - brewbooks.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3403428,
+            "width": 2592,
+            "height": 3888,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Books_Spiral_-_Technology_-_Flickr_-_brewbooks.jpg/1920px-Books_Spiral_-_Technology_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1800,
+            "thumbheight": 2700,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/30/Books_Spiral_-_Technology_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Books_Spiral_-_Technology_-_Flickr_-_brewbooks.jpg/1920px-Books_Spiral_-_Technology_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 2700,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/30/Books_Spiral_-_Technology_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Books_Spiral_-_Technology_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Books_Spiral_-_Technology_-_Flickr_-_brewbooks.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55609489",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-01-30 19:14:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Books Spiral - Technology - Flickr - brewbooks",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "2009 in Seattle|Interior of Seattle Central Library|December 2009 in Washington (state)|Flickr images reviewed by FlickreviewR|Photographs by brewbooks|Files with coordinates missing SDC location of creation|Files uploaded by Josve05a (brewbooks)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.606770",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-122.332645",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>\"The Books Spiral is four floors of book stacks, connected by gentle ramps. The majority of the nonfiction collection — 75 percent of the entire collection — is located on the Books Spiral. This lets the nonfiction collection exist in one continuous run, and avoids the problem of having to move books into other rooms or floors as the collection expands.  ....\n</p><p>floor mats throughout the Books Spiral are labeled with <a class=\"external text\" data-mw-original-href=\"http://en.wikipedia.org/wiki/Dewey_Decimal_Classification\" href=\"https://en.wikipedia.org/wiki/Dewey_Decimal_Classification\">Dewey Decimal System</a> numbers to help people find the items on each floor.\"\n</p><p>Source <a rel=\"nofollow\" class=\"external text\" href=\"http://www.spl.org/default.asp?pageID=branch_central_visit_floor&amp;branchID=1\">CENTRAL LIBRARY: FLOOR-BY-FLOOR HIGHLIGHTS</a> accessed 27 Mar 2010\n</p><p>On a photo tour of Seattle Central Library with <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/listorama/\">listorama</a>\n</p>\nseattle 060",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-12-06 02:43",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/brewbooks/4467301505/\">Books Spiral - Technology</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/93452909@N00\">brewbooks</a> from near Seattle, USA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "55609815": {
+        "pageid": 55609815,
+        "ns": 6,
+        "title": "File:Near the top of the Book Spiral - Flickr - brewbooks.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3895005,
+            "width": 3888,
+            "height": 2592,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Near_the_top_of_the_Book_Spiral_-_Flickr_-_brewbooks.jpg/1920px-Near_the_top_of_the_Book_Spiral_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1800,
+            "thumbheight": 1200,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Near_the_top_of_the_Book_Spiral_-_Flickr_-_brewbooks.jpg/3840px-Near_the_top_of_the_Book_Spiral_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Near_the_top_of_the_Book_Spiral_-_Flickr_-_brewbooks.jpg/1920px-Near_the_top_of_the_Book_Spiral_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 1200,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Near_the_top_of_the_Book_Spiral_-_Flickr_-_brewbooks.jpg/3840px-Near_the_top_of_the_Book_Spiral_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Near_the_top_of_the_Book_Spiral_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Near_the_top_of_the_Book_Spiral_-_Flickr_-_brewbooks.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55609815",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-01-30 19:21:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Near the top of the Book Spiral - Flickr - brewbooks",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "2009 in Seattle|Interior of Seattle Central Library|December 2009 in Washington (state)|Flickr images reviewed by FlickreviewR|Photographs by brewbooks|Files with coordinates missing SDC location of creation|Files uploaded by Josve05a (brewbooks)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.606607",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-122.332913",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>On a photo tour of Seattle Central Library with <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/listorama/\">listorama</a>\n</p>\nseattle 043",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-12-06 01:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/brewbooks/4457570824/\">Near the top of the Book Spiral</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/93452909@N00\">brewbooks</a> from near Seattle, USA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "55609888": {
+        "pageid": 55609888,
+        "ns": 6,
+        "title": "File:River of Books - Flickr - brewbooks.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4426290,
+            "width": 2592,
+            "height": 3888,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/River_of_Books_-_Flickr_-_brewbooks.jpg/1920px-River_of_Books_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1800,
+            "thumbheight": 2700,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/a/a9/River_of_Books_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/River_of_Books_-_Flickr_-_brewbooks.jpg/1920px-River_of_Books_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 2700,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/a9/River_of_Books_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/River_of_Books_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:River_of_Books_-_Flickr_-_brewbooks.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55609888",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-01-30 19:23:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "River of Books - Flickr - brewbooks",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "2009 in Seattle|Interior of Seattle Central Library|December 2009 in Washington (state)|Flickr images reviewed by FlickreviewR|Photographs by brewbooks|Files with coordinates missing SDC location of creation|Files uploaded by Josve05a (brewbooks)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.606448",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-122.332634",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>Looking down from balcony off the 10th  floor\n</p><p>On a photo tour of Seattle Central Library with <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/listorama/\">listorama</a>\n</p>\nseattle 038",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-12-06 01:36",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/brewbooks/4457569216/\">River of Books</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/93452909@N00\">brewbooks</a> from near Seattle, USA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "61091420": {
+        "pageid": 61091420,
+        "ns": 6,
+        "title": "File:Seattle Central Library (5763011359).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8861231,
+            "width": 4774,
+            "height": 2944,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Seattle_Central_Library_%285763011359%29.jpg/1920px-Seattle_Central_Library_%285763011359%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1800,
+            "thumbheight": 1110,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Seattle_Central_Library_%285763011359%29.jpg/3840px-Seattle_Central_Library_%285763011359%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Seattle_Central_Library_%285763011359%29.jpg/1920px-Seattle_Central_Library_%285763011359%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 1110,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Seattle_Central_Library_%285763011359%29.jpg/3840px-Seattle_Central_Library_%285763011359%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Seattle_Central_Library_%285763011359%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Seattle_Central_Library_(5763011359).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=61091420",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-07-17 00:47:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Seattle Central Library (5763011359)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "2011 in Seattle|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation|Exterior of Seattle Central Library",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.606535",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-122.331744",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Seattle Central Library looking west from 5th Ave and Madison St.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-05-23 16:58",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/andrewasmith/5763011359/\">Seattle Central Library</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/40165565@N03\">Andrew Smith</a> from Seattle, WA, USA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "61091423": {
+        "pageid": 61091423,
+        "ns": 6,
+        "title": "File:Reception in Red (5756533584).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7863119,
+            "width": 3725,
+            "height": 2979,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Reception_in_Red_%285756533584%29.jpg/1920px-Reception_in_Red_%285756533584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1800,
+            "thumbheight": 1440,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Reception_in_Red_%285756533584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Reception_in_Red_%285756533584%29.jpg/1920px-Reception_in_Red_%285756533584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 1440,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Reception_in_Red_%285756533584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Reception_in_Red_%285756533584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Reception_in_Red_(5756533584).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=61091423",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-07-17 00:47:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Reception in Red (5756533584)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "2011 in Seattle|Interior of Seattle Central Library|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.606633",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-122.332881",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The fourth floor of the Seattle Central Library is entirely red.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-05-23 17:22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/andrewasmith/5756533584/\">Reception in Red</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/40165565@N03\">Andrew Smith</a> from Seattle, WA, USA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "61091462": {
+        "pageid": 61091462,
+        "ns": 6,
+        "title": "File:Grid System (5613157595).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7040718,
+            "width": 3818,
+            "height": 3182,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Grid_System_%285613157595%29.jpg/1920px-Grid_System_%285613157595%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1800,
+            "thumbheight": 1500,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Grid_System_%285613157595%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Grid_System_%285613157595%29.jpg/1920px-Grid_System_%285613157595%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 1500,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Grid_System_%285613157595%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Grid_System_%285613157595%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Grid_System_(5613157595).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=61091462",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-07-17 00:48:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Grid System (5613157595)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Glass|Seattle Central Library|Flickr images reviewed by FlickreviewR|Blue impressions|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.606795",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-122.332785",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>A small section of the exterior glass wall at Seattle Central Library.\n</p><p>Nearly 10,000 of the diamond-shaped glass panes cover over 126,000 square feet to create the \"exterior curtain\".\n</p>\nSource: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.spl.org/default.asp?pageID=branch_central_building&amp;branchID=1\">Seattle Central Library</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-04-03 14:52",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/andrewasmith/5613157595/\">Grid System</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/40165565@N03\">Andrew Smith</a> from Seattle, WA, USA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "79395588": {
+        "pageid": 79395588,
+        "ns": 6,
+        "title": "File:Childrens Library Seattle Central Library (259437129).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3253207,
+            "width": 3504,
+            "height": 2336,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Childrens_Library_Seattle_Central_Library_%28259437129%29.jpg/1920px-Childrens_Library_Seattle_Central_Library_%28259437129%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1800,
+            "thumbheight": 1200,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/74/Childrens_Library_Seattle_Central_Library_%28259437129%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Childrens_Library_Seattle_Central_Library_%28259437129%29.jpg/1920px-Childrens_Library_Seattle_Central_Library_%28259437129%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 1200,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/74/Childrens_Library_Seattle_Central_Library_%28259437129%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Childrens_Library_Seattle_Central_Library_%28259437129%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Childrens_Library_Seattle_Central_Library_(259437129).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79395588",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-06-01 12:11:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Childrens Library Seattle Central Library (259437129)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Interior of Seattle Central Library|Files with coordinates missing SDC location of creation|United States photographs taken on 2006-10-01|Flickr images reviewed by FlickreviewR 2|Files uploaded by Sic19",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.606756",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-122.332785",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>I like the man-made pattern of the lights in contrast with the tree branch.\n</p>\ni100106 093",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2006-10-01 13:40",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/brewbooks/259437129/\">Childrens Library Seattle Central Library</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/93452909@N00\">brewbooks</a> from near Seattle, USA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "97657933": {
+        "pageid": 97657933,
+        "ns": 6,
+        "title": "File:Seattle Central Library under construction, 2003 (4440504145).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 215575,
+            "width": 1200,
+            "height": 803,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Seattle_Central_Library_under_construction%2C_2003_%284440504145%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1800,
+            "thumbheight": 1205,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Seattle_Central_Library_under_construction%2C_2003_%284440504145%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 1205
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Seattle_Central_Library_under_construction%2C_2003_%284440504145%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Seattle_Central_Library_under_construction,_2003_(4440504145).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97657933",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-12-16 16:31:38",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Seattle Central Library under construction, 2003 (4440504145)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Seattle Central Library|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.606712",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-122.332849",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://archives.seattle.gov/digital-collections/index.php/Detail/objects/156394\">http://archives.seattle.gov/digital-collections/index.php/Detail/objects/156394</a>\" rel=\"nofollow\"&gt;Item 170757&lt;/a&gt;, Fleets and Facilities Department Imagebank Collection (Record Series 0207-01), &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://www.seattle.gov/CityArchives/\">http://www.seattle.gov/CityArchives/</a>\" rel=\"nofollow\"&gt;Seattle Municipal Archives&lt;/a&gt;.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2003-08-12 10:03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/seattlemunicipalarchives/4440504145/\">Seattle Central Library under construction, 2003</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/24256351@N04\">Seattle Municipal Archives</a> from Seattle, WA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "117562027": {
+        "pageid": 117562027,
+        "ns": 6,
+        "title": "File:Seattle Central Library interior.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1038449,
+            "width": 1200,
+            "height": 1600,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Seattle_Central_Library_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1800,
+            "thumbheight": 2400,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Seattle_Central_Library_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 2400
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Seattle_Central_Library_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Seattle_Central_Library_interior.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117562027",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2005-04-20 02:57:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Seattle Central Library interior",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon Coolpix 775|Interior of Seattle Central Library",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "New Seattle Public Library, Central Branch, Seattle, Washington, USA. Photo of the interior taken July 19, 2004 by Jim Harper.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2004-07-19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Pixel23&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Pixel23 (page does not exist)\">Jim Harper</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 1.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 1.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/1.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-1.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "120203445": {
+        "pageid": 120203445,
+        "ns": 6,
+        "title": "File:Seattle (WA, USA), Seattle Central Library -- 2022 -- 200930.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4390209,
+            "width": 2443,
+            "height": 2172,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Seattle_%28WA%2C_USA%29%2C_Seattle_Central_Library_--_2022_--_200930.jpg/1920px-Seattle_%28WA%2C_USA%29%2C_Seattle_Central_Library_--_2022_--_200930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1800,
+            "thumbheight": 1600,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/34/Seattle_%28WA%2C_USA%29%2C_Seattle_Central_Library_--_2022_--_200930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Seattle_%28WA%2C_USA%29%2C_Seattle_Central_Library_--_2022_--_200930.jpg/1920px-Seattle_%28WA%2C_USA%29%2C_Seattle_Central_Library_--_2022_--_200930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 1600,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/34/Seattle_%28WA%2C_USA%29%2C_Seattle_Central_Library_--_2022_--_200930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Seattle_%28WA%2C_USA%29%2C_Seattle_Central_Library_--_2022_--_200930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_Seattle_Central_Library_--_2022_--_200930.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120203445",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-07-20 08:16:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Seattle (WA, USA), Seattle Central Library -- 2022 -- 200930",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs with aspect ratio of 9:8|Taken with Samsung Galaxy S21 5G|Blue sky in Washington (state)|Self-published work|Photographs by Dietmar Rabich/United States|Information field template with formatting|Libraries in the United States photographed in 2022|Buildings with addresses|On OSM|Images by XRay (flat list)|Uploaded with LrMediaWiki|ISO speed rating 50|United States photographs taken on 2022-06-11|June 2022 in Seattle|Exposure time 1/260 sec|Evening in the United States|Three-quarter views of buildings|Photographs by Dietmar Rabich/Architectural photography|Exterior of Seattle Central Library|F-number f/2.2|Blue sky background in the United States|Photographs by Dietmar Rabich/Year/2022|Lens focal length 2.2 mm|Libraries with blue sky background",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.606701",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-122.332501",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Seattle_Central_Library\" class=\"extiw\" title=\"en:Seattle Central Library\">Seattle Central Library</a> in <a href=\"https://en.wikipedia.org/wiki/Seattle\" class=\"extiw\" title=\"en:Seattle\">Seattle</a>, <a href=\"https://en.wikipedia.org/wiki/Washington_(state)\" class=\"extiw\" title=\"en:Washington (state)\">Washington</a>, USA",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 11 June 2022, 20:09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_Seattle_Central_Library_--_2022_--_200930.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_Seattle_Central_Library_--_2022_--_200930.jpg\">“Seattle (WA, USA), Seattle Central Library -- 2022 -- 200930”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_Seattle_Central_Library_--_2022_--_200930.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_Seattle_Central_Library_--_2022_--_200930.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "155445440": {
+        "pageid": 155445440,
+        "ns": 6,
+        "title": "File:Seattle Central Library from Fourth & Madison Building - Nov 2024.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6917982,
+            "width": 4080,
+            "height": 3072,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Seattle_Central_Library_from_Fourth_%26_Madison_Building_-_Nov_2024.jpg/1920px-Seattle_Central_Library_from_Fourth_%26_Madison_Building_-_Nov_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1800,
+            "thumbheight": 1355,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Seattle_Central_Library_from_Fourth_%26_Madison_Building_-_Nov_2024.jpg/3840px-Seattle_Central_Library_from_Fourth_%26_Madison_Building_-_Nov_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Seattle_Central_Library_from_Fourth_%26_Madison_Building_-_Nov_2024.jpg/1920px-Seattle_Central_Library_from_Fourth_%26_Madison_Building_-_Nov_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 1355,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Seattle_Central_Library_from_Fourth_%26_Madison_Building_-_Nov_2024.jpg/3840px-Seattle_Central_Library_from_Fourth_%26_Madison_Building_-_Nov_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Seattle_Central_Library_from_Fourth_%26_Madison_Building_-_Nov_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Seattle_Central_Library_from_Fourth_%26_Madison_Building_-_Nov_2024.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155445440",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-11-20 23:49:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Seattle Central Library from Fourth & Madison Building - Nov 2024",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Exterior of Seattle Central Library",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The exterior of the <a href=\"https://en.wikipedia.org/wiki/Seattle_Central_Library\" class=\"extiw\" title=\"w:Seattle Central Library\">Seattle Central Library</a>'s southwest corner seen from the adjacent <a href=\"https://en.wikipedia.org/wiki/Fourth_and_Madison_Building\" class=\"extiw\" title=\"w:Fourth and Madison Building\">Fourth and Madison Building</a>'s seventh-story balcony.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-11-07 16:33:21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:SounderBruce\" title=\"User:SounderBruce\">SounderBruce</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

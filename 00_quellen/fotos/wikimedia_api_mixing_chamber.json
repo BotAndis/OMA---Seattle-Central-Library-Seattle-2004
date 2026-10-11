@@ -1,0 +1,125 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "79395514": {
+        "pageid": 79395514,
+        "ns": 6,
+        "title": "File:Mixing Chamber and offices - Seattle Central Library (178839789).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1324173,
+            "width": 2592,
+            "height": 1944,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Mixing_Chamber_and_offices_-_Seattle_Central_Library_%28178839789%29.jpg/1920px-Mixing_Chamber_and_offices_-_Seattle_Central_Library_%28178839789%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1800,
+            "thumbheight": 1350,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/52/Mixing_Chamber_and_offices_-_Seattle_Central_Library_%28178839789%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Mixing_Chamber_and_offices_-_Seattle_Central_Library_%28178839789%29.jpg/1920px-Mixing_Chamber_and_offices_-_Seattle_Central_Library_%28178839789%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1800,
+              "height": 1350,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/52/Mixing_Chamber_and_offices_-_Seattle_Central_Library_%28178839789%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Mixing_Chamber_and_offices_-_Seattle_Central_Library_%28178839789%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mixing_Chamber_and_offices_-_Seattle_Central_Library_(178839789).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79395514",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-06-01 12:07:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mixing Chamber and offices - Seattle Central Library (178839789)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Interior of Seattle Central Library|Files with coordinates missing SDC location of creation|United States photographs taken on 2006-04-02|Flickr images reviewed by FlickreviewR 2|Files uploaded by Sic19",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.606756",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-122.332785",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "i042306 040",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2006-04-02 19:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/brewbooks/178839789/\">Mixing Chamber and offices - Seattle Central Library</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/93452909@N00\">brewbooks</a> from near Seattle, USA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

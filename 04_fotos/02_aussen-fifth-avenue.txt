@@ -1,0 +1,13 @@
+id: 02_aussen-fifth-avenue
+title: Seattle Central Library (5763011359).jpg
+path: 04_fotos/02_aussen-fifth-avenue.jpg
+author: Andrew Smith from Seattle, WA, USA
+date: 2011-05-23 16:58
+source: Wikimedia Commons
+url: https://commons.wikimedia.org/wiki/File:Seattle_Central_Library_(5763011359).jpg
+download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Seattle_Central_Library_%285763011359%29.jpg/1920px-Seattle_Central_Library_%285763011359%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+license: CC BY-SA 2.0
+license_url: https://creativecommons.org/licenses/by-sa/2.0
+category: Außenansicht
+description: Seattle Central Library looking west from 5th Ave and Madison St.
+original_dimensions: [4774, 2944]

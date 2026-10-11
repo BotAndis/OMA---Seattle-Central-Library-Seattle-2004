@@ -1,0 +1,13 @@
+id: 06_living-room
+title: Seattle-Public-Library-3rd-floor-2393.jpg
+path: 04_fotos/06_living-room.jpg
+author: Vladimir Menkov
+date: 2006-10-28
+source: Wikimedia Commons
+url: https://commons.wikimedia.org/wiki/File:Seattle-Public-Library-3rd-floor-2393.jpg
+download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Seattle-Public-Library-3rd-floor-2393.jpg/1920px-Seattle-Public-Library-3rd-floor-2393.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+license: CC BY-SA 3.0
+license_url: http://creativecommons.org/licenses/by-sa/3.0/
+category: Living Room
+description: Seattle Public Library: looking down into 3rd floor hall
+original_dimensions: [2048, 1536]

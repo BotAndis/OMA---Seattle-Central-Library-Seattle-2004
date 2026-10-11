@@ -1,0 +1,13 @@
+id: 13_atrium-blick
+title: River of Books - Flickr - brewbooks.jpg
+path: 04_fotos/13_atrium-blick.jpg
+author: brewbooks from near Seattle, USA
+date: 2009-12-06 01:36
+source: Wikimedia Commons
+url: https://commons.wikimedia.org/wiki/File:River_of_Books_-_Flickr_-_brewbooks.jpg
+download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/River_of_Books_-_Flickr_-_brewbooks.jpg/1920px-River_of_Books_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+license: CC BY-SA 2.0
+license_url: https://creativecommons.org/licenses/by-sa/2.0
+category: Books Spiral / vertikale Raumbeziehung
+description: Blick durch das Atrium auf gestaffelte Bibliotheksebenen und Bücherregale; Aufnahme vom Balkon auf Ebene 10.
+original_dimensions: [2592, 3888]

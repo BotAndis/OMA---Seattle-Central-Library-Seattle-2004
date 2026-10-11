@@ -1,0 +1,13 @@
+id: 16_tragwerk-detail
+title: Support Structure - Seattle Public Library.jpg
+path: 04_fotos/16_tragwerk-detail.jpg
+author: Jan Tik
+date: 2005-04-26 13:56:25
+source: Wikimedia Commons
+url: https://commons.wikimedia.org/wiki/File:Support_Structure_-_Seattle_Public_Library.jpg
+download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Support_Structure_-_Seattle_Public_Library.jpg/1920px-Support_Structure_-_Seattle_Public_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+license: CC BY 2.0
+license_url: https://creativecommons.org/licenses/by/2.0
+category: Reading Room / Stützen und Arbeitsplätze
+description: Arbeitsplätze im Reading Room mit Stütze, Deckenuntersicht und diagonaler Fassadenstruktur.
+original_dimensions: [2048, 1536]

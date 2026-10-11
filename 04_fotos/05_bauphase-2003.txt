@@ -1,0 +1,13 @@
+id: 05_bauphase-2003
+title: Seattle Central Library under construction, 2003 (4440504145).jpg
+path: 04_fotos/05_bauphase-2003.jpg
+author: Seattle Municipal Archives from Seattle, WA
+date: 2003-08-12 10:03
+source: Wikimedia Commons
+url: https://commons.wikimedia.org/wiki/File:Seattle_Central_Library_under_construction,_2003_(4440504145).jpg
+download_url: https://upload.wikimedia.org/wikipedia/commons/0/0c/Seattle_Central_Library_under_construction%2C_2003_%284440504145%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+license: CC BY 2.0
+license_url: https://creativecommons.org/licenses/by/2.0
+category: Bauphase
+description: <a href="http://archives.seattle.gov/digital-collections/index.php/Detail/objects/156394" rel="nofollow">Item 170757</a>, Fleets and Facilities Department Imagebank Collection (Record Series 0207-01), <a href="http://www.seattle.gov/CityArchives/" rel="nofollow">Seattle Municipal Archives</a>.
+original_dimensions: [1200, 803]

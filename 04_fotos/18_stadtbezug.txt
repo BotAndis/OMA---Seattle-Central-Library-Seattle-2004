@@ -1,0 +1,13 @@
+id: 18_stadtbezug
+title: Seattle Central Library from Fourth & Madison Building - Nov 2024.jpg
+path: 04_fotos/18_stadtbezug.jpg
+author: SounderBruce
+date: 2024-11-07 16:33:21
+source: Wikimedia Commons
+url: https://commons.wikimedia.org/wiki/File:Seattle_Central_Library_from_Fourth_%26_Madison_Building_-_Nov_2024.jpg
+download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Seattle_Central_Library_from_Fourth_%26_Madison_Building_-_Nov_2024.jpg/1920px-Seattle_Central_Library_from_Fourth_%26_Madison_Building_-_Nov_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+license: CC BY-SA 4.0
+license_url: https://creativecommons.org/licenses/by-sa/4.0
+category: Stadtbezug / erhöhte Perspektive
+description: The exterior of the Seattle Central Library's southwest corner seen from the adjacent Fourth and Madison Building's seventh-story balcony.
+original_dimensions: [4080, 3072]

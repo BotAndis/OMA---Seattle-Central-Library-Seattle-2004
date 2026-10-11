@@ -1,0 +1,13 @@
+id: 14_stahltragwerk-innen
+title: Seattle library framework inside.jpg
+path: 04_fotos/14_stahltragwerk-innen.jpg
+author: Jan Tik
+date: 2005-04-26 13:20:25
+source: Wikimedia Commons
+url: https://commons.wikimedia.org/wiki/File:Seattle_library_framework_inside.jpg
+download_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Seattle_library_framework_inside.jpg/1920px-Seattle_library_framework_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+license: CC BY 2.0
+license_url: https://creativecommons.org/licenses/by/2.0
+category: Tragwerk / Innenraum
+description: Seattle Central LibraryFramework
+original_dimensions: [2048, 1536]
